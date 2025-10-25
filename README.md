@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hello%20YOU,%20I'm%20Shalom%20🤗&fontSize=35&animation=fadeIn&fontAlignY=40" alt="Hello I'm Shalom Animated Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=orange&height=220&section=header&text=Hello%20YOU,%20I'm%20Shalom%20🤗&fontSize=35&animation=fadeIn&fontAlignY=40" alt="Hello I'm Shalom Animated Header"/>
 </p>
 
 <h1 align="center">Shalom Chidi-Azuwike (ZeptaHacker)</h1>
 <h3 align="center">Software Engineer | AI Developer | Microsoft Learn Student Ambassador | CEO, Kabary Software</h3>
 
 <div align="center">
-  <img src="https://zeptaherself.netlify.app/ashii/1000429235-removebg-preview.png" alt="Shalom Chidi-Azuwike Profile Photo" width="180" height="180" style="border-radius: 50%; object-fit: cover; margin: 15px 0 30px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2); border: 3px solid #004CD2;">
+  <img src="https://zeptaherself.netlify.app/ashii/1000429235-removebg-preview.png" alt="Shalom Chidi-Azuwike Profile Photo" width="180" height="230" style="border-radius: 50%; object-fit: cover; margin: 15px 0 30px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2); border: 3px solid #004CD2;">
 </div>
 
 <div align="center">
-  <p>I build immersive and responsive websites, applications, APIs, and AI models. Specializing in the **MERN Stack, Python, and AI**, I deliver end-to-end solutions that drive real-world impact. Passionate advocate for **Women in Tech** and open-source contributions.</p>
+  <p>I build immersive and responsive websites, applications, APIs, and AI models. Specializing in the MERN Stack, Python, and AI, I deliver end-to-end solutions that drive real-world impact. Passionate advocate for Women in Tech and open-source contributions.</p>
 </div>
 
 ---
@@ -310,5 +310,5 @@
 </div>
 
 <p align="center" style="margin-top: 30px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&text=Let's%20build%20the%20future.%20Connect!&fontSize=30" alt="Footer Animated Text"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=orange&height=100&section=footer&text=Let's%20build%20the%20future.%20Connect!&fontSize=30" alt="Footer Animated Text"/>
 </p>
