@@ -1,0 +1,37 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    # Run automatically every 24 hours (e.g., at 00:00 UTC)
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Allows manual triggering
+  push:
+    branches:
+      - main # Runs on every push to the main branch
+
+jobs:
+  generate:
+    # Permissions are required to push the generated SVG to the repository
+    permissions:
+      contents: write
+      
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Generate pacman-contribution-graph.svg
+        # Uses the official Pac-Man contribution graph action
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          # Your GitHub username is needed to fetch the contributions
+          github_user_name: ${{ github.repository_owner }} 
+
+      - name: Push pacman-contribution-graph.svg to the output branch
+        # This action pushes the generated SVG file to a dedicated branch named 'output'
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output # The branch name where the SVG is saved
+          build_dir: dist # The directory where the Pacman action outputs the SVG (default is 'dist')
+        env:
+          # Required for the action to have permission to push to the repository
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
