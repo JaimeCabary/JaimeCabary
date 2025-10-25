@@ -1,0 +1,34 @@
+name: Generate Snake Animation
+
+# Controls when the action will run
+on:
+  schedule: # Execute the workflow every 12 hours
+    - cron: "0 0,12 * * *" 
+  workflow_dispatch: # Allows you to run the workflow manually
+
+# A sequence of jobs to be executed
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Step 1: Checks out your repository under $GITHUB_WORKSPACE, so your workflow can access it
+      - uses: actions/checkout@v4
+      
+      # Step 2: Generates the snake animation and commits it to the output branch
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          # Replace 'JaimeCabary' with your GitHub username
+          github_user_name: JaimeCabary 
+          # The file path where the SVG animation will be saved
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        
+      # Step 3: Pushes the new SVG file to the 'output' branch
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output # The branch where the image is stored
+          build_dir: dist # The directory where the SVG was generated
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Required for the action to commit the file
