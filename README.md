@@ -1,4 +1,242 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20My%20World,%20I'm%20Shalom%20🌟&fontSize=40&animation=twinkling&fontAlignY=38&fontColor=ffffff" alt="Animated Header" style="width: 100%;"/>
+</p>
+
+<h1 align="center" style="font-family: 'Lora', serif; color: #FF8C00; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3); animation: fadeInDown 1s ease-in-out;">Shalom Chidi-Azuwike</h1>
+<h3 align="center" style="font-family: 'Poppins', sans-serif; color: #ffffff; font-weight: 400; animation: fadeIn 1.5s ease-in-out;">Software Engineer | AI Innovator | Microsoft Learn Student Ambassador | CEO, Kabary Software & ZeptaHacker Innovations</h3>
+
+<div align="center" style="margin: 30px 0; animation: zoomIn 1s ease-in-out;">
+  <img src="https://zeptaherself.netlify.app/ashii/1000429235-removebg-preview.png" alt="Shalom Profile Photo" style="width: 180px; height: 260px; border-radius: 50%; object-fit: cover; border: 4px solid #FF8C00; box-shadow: 0 6px 12px rgba(255, 140, 0, 0.4); transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+</div>
+
+<div align="center" style="max-width: 800px; margin: 0 auto 40px; font-family: 'Poppins', sans-serif; color: #e0e0e0; font-size: 1.1em; line-height: 1.7; background: linear-gradient(135deg, rgba(255, 140, 0, 0.1), rgba(0, 0, 0, 0.2)); padding: 20px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3); animation: fadeInUp 1.5s ease-in-out;">
+  Crafting immersive <strong>web and AI solutions</strong> with a passion for innovation and storytelling. I specialize in <strong>MERN Stack, Python, AI/ML, and Web3</strong>, delivering impactful applications and advocating for Women in Tech. Let’s build the future together! 🚀
+</div>
+
+---
+
+<h2 align="center" style="font-family: 'Lora', serif; color: #FF8C00; margin: 40px 0 20px; animation: fadeIn 1s ease-in-out;">🌌 My Tech Universe</h2>
+
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 0 auto; max-width: 1200px;">
+  <div style="background: linear-gradient(135deg, #FF8C00, #FF4500); padding: 20px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease; animation: slideInLeft 1s ease-in-out;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'">
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="2" style="margin-bottom: 10px;">
+      <path d="M17 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h10m-4 4h-2v2h2V7z"/>
+    </svg>
+    <h3 style="color: #ffffff; font-family: 'Poppins', sans-serif;">Full-Stack Development</h3>
+    <p style="color: #e0e0e0; font-size: 0.9em;">Building responsive, scalable web apps with MERN, Tailwind, and Next.js.</p>
+  </div>
+  <div style="background: linear-gradient(135deg, #FF4500, #FFA500); padding: 20px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease; animation: slideInRight 1s ease-in-out;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'">
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="2" style="margin-bottom: 10px;">
+      <path d="M12 2a10 10 0 0 0-10 10c0 4.4 2.9 8.1 6.9 9.4M12 2a10 10 0 0 1 10 10c0 4.4-2.9 8.1-6.9 9.4"/>
+    </svg>
+    <h3 style="color: #ffffff; font-family: 'Poppins', sans-serif;">AI & Data Science</h3>
+    <p style="color: #e0e0e0; font-size: 0.9em;">Creating intelligent models with Python, TensorFlow, and Flask/FastAPI.</p>
+  </div>
+  <div style="background: linear-gradient(135deg, #FFA500, #FF8C00); padding: 20px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease; animation: slideInUp 1s ease-in-out;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'">
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="2" style="margin-bottom: 10px;">
+      <path d="M12 2v6m0 0v6m0-6h6m-6 0H6"/>
+    </svg>
+    <h3 style="color: #ffffff; font-family: 'Poppins', sans-serif;">Community Leadership</h3>
+    <p style="color: #e0e0e0; font-size: 0.9em;">Empowering tech communities through IEEE, Microsoft, and Samsung.</p>
+  </div>
+</div>
+
+---
+
+<h2 align="center" style="font-family: 'Lora', serif; color: #FF8C00; margin: 40px 0 20px; animation: fadeIn 1s ease-in-out;">🚀 Featured Projects</h2>
+<p align="center" style="font-family: 'Poppins', sans-serif; color: #e0e0e0; margin-bottom: 30px; animation: fadeIn 1.5s ease-in-out;">A glimpse into my innovative solutions, blending creativity and technology.</p>
+
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; max-width: 1200px; margin: 0 auto;">
+  <figure style="margin: 0; animation: fadeInUp 1s ease-in-out;">
+    <a href="https://unzep.netlify.app/" target="_blank">
+      <img src="https://zeptaherself.netlify.app/un.png" alt="UN Website Revamp" style="width: 100%; border-radius: 12px; border: 2px solid #FF8C00; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"/>
+    </a>
+    <figcaption style="font-family: 'Poppins', sans-serif; font-size: 1.2em; font-weight: 600; color: #FF8C00; margin-top: 10px;">UN Website Revamp</figcaption>
+    <p style="font-family: 'Poppins', sans-serif; font-size: 0.9em; color: #e0e0e0;">Modernized UN website with React and FastAPI for global impact.</p>
+  </figure>
+  <figure style="margin: 0; animation: fadeInUp 1.2s ease-in-out;">
+    <a href="https://nkmedicals.netlify.app/" target="_blank">
+      <img src="https://zeptaherself.netlify.app/ne/Screenshot%20(1720).png" alt="Lude Health Centre App" style="width: 100%; border-radius: 12px; border: 2px solid #FF8C00; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"/>
+    </a>
+    <figcaption style="font-family: 'Poppins', sans-serif; font-size: 1.2em; font-weight: 600; color: #FF8C00; margin-top: 10px;">Lude Health Centre App</figcaption>
+    <p style="font-family: 'Poppins', sans-serif; font-size: 0.9em; color: #e0e0e0;">IEEE-sponsored hospital management system with MERN stack.</p>
+  </figure>
+  <figure style="margin: 0; animation: fadeInUp 1.4s ease-in-out;">
+    <a href="https://zeptaherself.netlify.app/#projects" target="_blank">
+      <img src="https://zeptaherself.netlify.app/janessaa.png" alt="Janessa AI Chatbot" style="width: 100%; border-radius: 12px; border: 2px solid #FF8C00; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"/>
+    </a>
+    <figcaption style="font-family: 'Poppins', sans-serif; font-size: 1.2em; font-weight: 600; color: #FF8C00; margin-top: 10px;">Janessa AI Chatbot</figcaption>
+    <p style="font-family: 'Poppins', sans-serif; font-size: 0.9em; color: #e0e0e0;">AI-powered chatbot built with Python and Flask for seamless interactions.</p>
+  </figure>
+</div>
+
+<div align="center" style="margin: 30px 0; animation: fadeIn 1s ease-in-out;">
+  <a href="https://zeptaherself.netlify.app/#projects" target="_blank">
+    <img src="https://img.shields.io/badge/Explore_All_Projects-FF8C00?style=for-the-badge&logo=visualstudio&logoColor=white" alt="View All Projects" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+</div>
+
+---
+
+<h2 align="center" style="font-family: 'Lora', serif; color: #FF8C00; margin: 40px 0 20px; animation: fadeIn 1s ease-in-out;">📊 GitHub Insights</h2>
+<div align="center" style="max-width: 1200px; margin: 0 auto 40px; background: linear-gradient(135deg, #0d1117, #161b22); padding: 20px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); animation: fadeInUp 1s ease-in-out;">
+  <p style="font-family: 'Poppins', sans-serif; color: #FF8C00; font-weight: 600; margin-bottom: 20px;">🎮 Pac-Man Contribution Graph</p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaimeCabary/JaimeCabary/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaimeCabary/JaimeCabary/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/JaimeCabary/JaimeCabary/output/pacman-contribution-graph.svg" style="width: 100%; border-radius: 8px;"/>
+  </picture>
+  <div style="margin-top: 20px;">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=JaimeCabary.JaimeCabary&style=for-the-badge&color=orange" alt="Profile Views" style="margin-right: 10px;"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=JaimeCabary&theme=radical&column=5" alt="GitHub Trophies"/>
+  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=JaimeCabary&show_icons=true&theme=transparent&include_all_commits=true&hide_title=true&border_radius=8" alt="GitHub Stats" style="width: 100%; margin: 20px 0;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeCabary&layout=compact&theme=transparent&border_radius=8" alt="Top Languages" style="width: 100%;"/>
+</div>
+
+---
+
+<h2 align="center" style="font-family: 'Lora', serif; color: #FF8C00; margin: 40px 0 20px; animation: fadeIn 1s ease-in-out;">🛠️ Skills & Expertise</h2>
+<div align="center" style="max-width: 1200px; margin: 0 auto 40px;">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px;">
+    <div style="background: linear-gradient(135deg, #FF8C00, #FFA500); padding: 15px; border-radius: 10px; text-align: center; transition: transform 0.3s ease; animation: fadeInUp 1s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+      <i class="fab fa-python" style="font-size: 30px; color: #ffffff;"></i>
+      <p style="font-family: 'Poppins', sans-serif; color: #ffffff; margin: 10px 0 0;">Python (95%)</p>
+    </div>
+    <div style="background: linear-gradient(135deg, #FF8C00, #FFA500); padding: 15px; border-radius: 10px; text-align: center; transition: transform 0.3s ease; animation: fadeInUp 1.2s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+      <i class="fab fa-react" style="font-size: 30px; color: #ffffff;"></i>
+      <p style="font-family: 'Poppins', sans-serif; color: #ffffff; margin: 10px 0 0;">React/Next.js</p>
+    </div>
+    <div style="background: linear-gradient(135deg, #FF8C00, #FFA500); padding: 15px; border-radius: 10px; text-align: center; transition: transform 0.3s ease; animation: fadeInUp 1.4s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+      <i class="fas fa-database" style="font-size: 30px; color: #ffffff;"></i>
+      <p style="font-family: 'Poppins', sans-serif; color: #ffffff; margin: 10px 0 0;">MySQL/AWS</p>
+    </div>
+    <div style="background: linear-gradient(135deg, #FF8C00, #FFA500); padding: 15px; border-radius: 10px; text-align: center; transition: transform 0.3s ease; animation: fadeInUp 1.6s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+      <i class="fab fa-js" style="font-size: 30px; color: #ffffff;"></i>
+      <p style="font-family: 'Poppins', sans-serif; color: #ffffff; margin: 10px 0 0;">JavaScript (ES6+)</p>
+    </div>
+  </div>
+</div>
+
+---
+
+<h2 align="center" style="font-family: 'Lora', serif; color: #FF8C00; margin: 40px 0 20px; animation: fadeIn 1s ease-in-out;">📚 Literary Creations</h2>
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; max-width: 1200px; margin: 0 auto 40px;">
+  <div style="background: linear-gradient(135deg, #0d1117, #161b22); padding: 15px; border-radius: 10px; border: 2px solid #FF8C00; transition: transform 0.3s ease; animation: fadeInUp 1s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <h4 style="font-family: 'Poppins', sans-serif; color: #FF8C00; margin: 0 0 5px;">The Billionaire's Son</h4>
+    <p style="font-family: 'Poppins', sans-serif; color: #e0e0e0; font-size: 0.9em;">A tale of wealth and personal growth (as Jaime Cabary).</p>
+  </div>
+  <div style="background: linear-gradient(135deg, #0d1117, #161b22); padding: 15px; border-radius: 10px; border: 2px solid #FF8C00; transition: transform 0.3s ease; animation: fadeInUp 1.2s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <h4 style="font-family: 'Poppins', sans-serif; color: #FF8C00; margin: 0 0 5px;">Caught in Between</h4>
+    <p style="font-family: 'Poppins', sans-serif; color: #e0e0e0; font-size: 0.9em;">Exploring complex relationships (as Jaime Cabary).</p>
+  </div>
+  <div style="background: linear-gradient(135deg, #0d1117, #161b22); padding: 15px; border-radius: 10px; border: 2px solid #FF8C00; transition: transform 0.3s ease; animation: fadeInUp 1.4s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <h4 style="font-family: 'Poppins', sans-serif; color: #FF8C00; margin: 0 0 5px;">Twin</h4>
+    <p style="font-family: 'Poppins', sans-serif; color: #e0e0e0; font-size: 0.9em;">A story of survival and hope (as Aster L. Lowen).</p>
+  </div>
+</div>
+
+---
+
+<h2 align="center" style="font-family: 'Lora', serif; color: #FF8C00; margin: 40px 0 20px; animation: fadeIn 1s ease-in-out;">🎙️ Voice Acting Highlights</h2>
+<div align="center" style="max-width: 1200px; margin: 0 auto 40px;">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
+    <div style="background: linear-gradient(135deg, #FF8C00, #FFA500); padding: 15px; border-radius: 10px; text-align: center; animation: fadeInUp 1s ease-in-out;">
+      <i class="fas fa-microphone-alt" style="font-size: 30px; color: #ffffff; margin-bottom: 10px;"></i>
+      <p style="font-family: 'Poppins', sans-serif; color: #ffffff; font-weight: 600;">Fee fi for fum</p>
+      <p style="font-family: 'Poppins', sans-serif; color: #e0e0e0; font-size: 0.9em;">Audiobook narration</p>
+      <a href="https://www.voices.com/profile/shalomchidi-azuwike" target="_blank" style="color: #ffffff; text-decoration: none; font-size: 0.9em;">Listen Now</a>
+    </div>
+    <div style="background: linear-gradient(135deg, #FF8C00, #FFA500); padding: 15px; border-radius: 10px; text-align: center; animation: fadeInUp 1.2s ease-in-out;">
+      <i class="fas fa-video" style="font-size: 30px; color: #ffffff; margin-bottom: 10px;"></i>
+      <p style="font-family: 'Poppins', sans-serif; color: #ffffff; font-weight: 600;">Africa Narration</p>
+      <p style="font-family: 'Poppins', sans-serif; color: #e0e0e0; font-size: 0.9em;">Video narration</p>
+      <a href="https://www.voices.com/profile/shalomchidi-azuwike" target="_blank" style="color: #ffffff; text-decoration: none; font-size: 0.9em;">Listen Now</a>
+    </div>
+  </div>
+</div>
+
+---
+
+<h2 align="center" style="font-family: 'Lora', serif; color: #FF8C00; margin: 40px 0 20px; animation: fadeIn 1s ease-in-out;">🤝 Community & Affiliations</h2>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-bottom: 40px; animation: fadeInUp 1s ease-in-out;">
+  <img src="https://img.shields.io/badge/Microsoft_Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn Badge"/>
+  <img src="https://img.shields.io/badge/Samsung_Ambassador-1428A0?style=for-the-badge&logo=samsung&logoColor=white" alt="Samsung Badge"/>
+  <img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=IEEE&logoColor=white" alt="IEEE Badge"/>
+  <img src="https://img.shields.io/badge/Cisco_Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Badge"/>
+</div>
+
+<div align="center" style="max-width: 1200px; margin: 0 auto; background: linear-gradient(135deg, #0d1117, #161b22); padding: 25px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); animation: fadeInUp 1s ease-in-out;">
+  <h3 style="font-family: 'Poppins', sans-serif; color: #FF8C00; border-bottom: 2px solid #FF8C00; padding-bottom: 10px;">Testimonials</h3>
+  <blockquote style="border-left: 4px solid #FF8C00; padding-left: 15px; margin: 20px 0; font-family: 'Poppins', sans-serif;">
+    <p style="font-style: italic; color: #e0e0e0; font-size: 1.1em;">"Shalom’s creativity and technical expertise transformed our project into a masterpiece!"</p>
+    <footer style="color: #aaa; font-size: 0.9em;">— Dr. Sarah Echefu, TechVision Solutions</footer>
+  </blockquote>
+  <blockquote style="border-left: 4px solid #FF8C00; padding-left: 15px; margin: 20px 0; font-family: 'Poppins', sans-serif;">
+    <p style="font-style: italic; color: #e0e0e0; font-size: 1.1em;">"Her app development skills are top-notch, with an incredible focus on user experience."</p>
+    <footer style="color: #aaa; font-size: 0.9em;">— Emmanuel Stanley, Digital Dynamics</footer>
+  </blockquote>
+</div>
+
+---
+
+<h2 align="center" style="font-family: 'Lora', serif; color: #FF8C00; margin: 40px 0 20px; animation: fadeIn 1s ease-in-out;">🔗 Let’s Connect</h2>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-bottom: 40px;">
+  <a href="https://zeptaherself.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF8C00?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shalom-chidi-azuwike-752b47321" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://medium.com/@shazzyazuwike" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-E67E22?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://x.com/JaimeCabary" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://zeptaherself.netlify.app/My%20Standard%20Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_CV-FF8C00?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download CV" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Let’s%20Build%20the%20Future%20Together!&fontSize=30&fontColor=ffffff" alt="Animated Footer" style="width: 100%;"/>
+</p>
+
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes fadeInDown {
+  from { opacity: 0; transform: translateY(-20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes slideInLeft {
+  from { opacity: 0; transform: translateX(-20px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+@keyframes slideInRight {
+  from { opacity: 0; transform: translateX(20px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+@keyframes zoomIn {
+  from { opacity: 0; transform: scale(0.8); }
+  to { opacity: 1; transform: scale(1); }
+}
+body {
+  background: linear-gradient(135deg, #0d1117, #1c2526);
+  font-family: 'Poppins', sans-serif;
+}
+</style>
+
+<script src="https://kit.fontawesome.com/your-font-awesome-kit.js" crossorigin="anonymous"></script>
+
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=220&section=header&text=Hello%20YOU,%20I'm%20Shalom%20🤗&fontSize=35&animation=fadeIn&fontAlignY=40" alt="Hello I'm Shalom Animated Header"/>
 </p>
 
@@ -311,4 +549,4 @@
 
 <p align="center" style="margin-top: 30px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=100&section=footer&text=Let's%20build%20the%20future.%20Connect!&fontSize=30" alt="Footer Animated Text"/>
-</p>
+</p> -->
