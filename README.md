@@ -3,10 +3,10 @@
 </p>
 
 <h1 align="center">Shalom Chidi-Azuwike (ZeptaHacker)</h1>
-<h3 align="center">Software Engineer | AI Developer | Microsoft Learn Student Ambassador | CEO, Kabary Software</h3>
+<h3 align="center">Software Engineer | AI and Web 3 Developer | Samsung Student Ambassador | Founder, Keginator</h3>
 
 <div align="center">
-  <img src="https://zeptaherself.netlify.app/ashii/1000429235-removebg-preview.png" alt="Shalom Chidi-Azuwike Profile Photo" width="150" height="230" style="border-radius: 50%; object-fit: cover; margin: 20px 0 30px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3); border: 3px solid #FF8C00;">
+  <img src="https://zeptaherself.netlify.app/ashii/1000429235-removebg-preview.png" alt="Shalom Chidi-Azuwike Profile Photo" width="150" height="240" style="border-radius: 12px; object-fit: cover; margin: 20px 0 30px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3); border: 3px solid #FF8C00;">
 </div>
 
 <div align="center" style="margin-bottom: 40px;">
@@ -64,13 +64,13 @@
   <a href="https://zeptaherself.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/View_Full_Portfolio-FF8C00?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Link"/>
   </a>
-  <a href="https://x.com/ZeptaHacker" target="_blank">
+  <a href="https://x.com/JaimeCabary" target="_blank">
     <img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Link"/>
   </a>
   <a href="https://medium.com/@shazzyazuwike" target="_blank">
     <img src="https://img.shields.io/badge/Read_My_Tech_Blog-E67E22?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog Link"/>
   </a>
-  <a href="https://www.linkedin.com/in/shalom-chidi-azuwike-zepta/" target="_blank">
+  <a href="https://www.linkedin.com/in/shalom-chidi-azuwike-752b47321" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Link"/>
   </a>
   <a href="https://zeptaherself.netlify.app/My%20Standard%20Resume.pdf" target="_blank">
