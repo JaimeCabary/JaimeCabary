@@ -58,6 +58,41 @@
 
 ---
 
+<h2 align="center" style="color: #FF8C00;">🔗 Connect & Download</h2>
+
+<div align="center" style="margin-top: 25px; margin-bottom: 20px;">
+  <a href="https://zeptaherself.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Full_Portfolio-FF8C00?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Link"/>
+  </a>
+  <a href="https://x.com/ZeptaHacker" target="_blank">
+    <img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Link"/>
+  </a>
+  <a href="https://medium.com/@shazzyazuwike" target="_blank">
+    <img src="https://img.shields.io/badge/Read_My_Tech_Blog-E67E22?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog Link"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shalom-chidi-azuwike-zepta/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Link"/>
+  </a>
+  <a href="https://zeptaherself.netlify.app/My%20Standard%20Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_Latest_CV-FF8C00?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download CV Badge"/>
+  </a>
+</div>
+
+<!-- GitHub Streak Stats -->
+<div align="center" style="margin: 30px 0;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaimeCabary&theme=dark&border_radius=8&border=FF8C00&fire=FF8C00&ring=FF8C00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF8C00&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub Streak Stats" style="width: 100%;"/>
+</div>
+
+<!-- Activity Graph -->
+<div align="center" style="margin: 30px 0;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaimeCabary&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=FF8C00&color=FFFFFF&line=FF8C00&point=FFFFFF" alt="GitHub Activity Graph" style="width: 100%;"/>
+</div>
+
+
+
+
+---
+
 <h2 align="center" style="color: #FF8C00;">💡 Visual Project Showcase</h2>
 <p align="center" style="margin-bottom: 30px;">A snapshot of recent projects demonstrating full-stack and AI capability.</p>
 
@@ -73,7 +108,7 @@
   
   <figure style="margin: 0;">
     <a href="https://nkmedicals.netlify.app/" target="_blank">
-      <img src="https://zeptaherself.netlify.app/ne/Screenshot%20(1720).png" alt="Screenshot of Lude Health Centre App" width="100%" style="border-radius: 8px; border: 1px solid #FF8C00; box-shadow: 0 4px 10px rgba(255, 140, 0, 0.2); height: 140px; object-fit: cover;"/>
+      <img src="https://zeptaherself.netlify.app/ne/Screenshot%20(1720).png" alt="Screenshot of Lude Health Centre App" width="70%" style="border-radius: 8px; border: 1px solid #FF8C00; box-shadow: 0 4px 10px rgba(255, 140, 0, 0.2); height: 200px; object-fit: cover;"/>
     </a>
     <figcaption style="font-size: 1em; font-weight: 600; margin-top: 10px; color: #FF8C00;">Lude Health Centre App</figcaption>
     <p style="font-size: 0.85em; margin-top: 5px;">Hospital Management System built for an IEEE sponsored project.</p>
@@ -81,7 +116,7 @@
 
   <figure style="margin: 0;">
     <a href="https://zeptaherself.netlify.app/#projects" target="_blank">
-      <img src="https://zeptaherself.netlify.app/janessaa.png" alt="Screenshot of Janessa AI Chatbot" width="100%" style="border-radius: 8px; border: 1px solid #FF8C00; box-shadow: 0 4px 10px rgba(255, 140, 0, 0.2); height: 140px; object-fit: cover;"/>
+      <img src="https://zeptaherself.netlify.app/janessaa.png" alt="Screenshot of Janessa AI Chatbot" width="70%" style="border-radius: 8px; border: 1px solid #FF8C00; box-shadow: 0 4px 10px rgba(255, 140, 0, 0.2); height: 200px; object-fit: cover;"/>
     </a>
     <figcaption style="font-size: 1em; font-weight: 600; margin-top: 10px; color: #FF8C00;">Janessa AI Chatbot</figcaption>
     <p style="font-size: 0.85em; margin-top: 5px;">AI-powered customer interaction chatbot using Python (Flask).</p>
@@ -89,7 +124,7 @@
   
   <figure style="margin: 0;">
     <a href="https://reigninglife.netlify.app/" target="_blank">
-      <img src="https://zeptaherself.netlify.app/RLS.png" alt="Screenshot of Reigning Life School Website" width="100%" style="border-radius: 8px; border: 1px solid #FF8C00; box-shadow: 0 4px 10px rgba(255, 140, 0, 0.2); height: 140px; object-fit: cover;"/>
+      <img src="https://zeptaherself.netlify.app/RLS.png" alt="Screenshot of Reigning Life School Website" width="70%" style="border-radius: 8px; border: 1px solid #FF8C00; box-shadow: 0 4px 10px rgba(255, 140, 0, 0.2); height: 200px; object-fit: cover;"/>
     </a>
     <figcaption style="font-size: 1em; font-weight: 600; margin-top: 10px; color: #FF8C00;">R.L. School Management</figcaption>
     <p style="font-size: 0.85em; margin-top: 5px;">Full-stack school management system with portals and authentication.</p>
@@ -312,37 +347,6 @@
   </blockquote>
 </div>
 
----
-
-<h2 align="center" style="color: #FF8C00;">🔗 Connect & Download</h2>
-
-<div align="center" style="margin-top: 25px; margin-bottom: 20px;">
-  <a href="https://zeptaherself.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/View_Full_Portfolio-FF8C00?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Link"/>
-  </a>
-  <a href="https://x.com/ZeptaHacker" target="_blank">
-    <img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Link"/>
-  </a>
-  <a href="https://medium.com/@shazzyazuwike" target="_blank">
-    <img src="https://img.shields.io/badge/Read_My_Tech_Blog-E67E22?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog Link"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shalom-chidi-azuwike-zepta/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Link"/>
-  </a>
-  <a href="https://zeptaherself.netlify.app/My%20Standard%20Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download_Latest_CV-FF8C00?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download CV Badge"/>
-  </a>
-</div>
-
-<!-- GitHub Streak Stats -->
-<div align="center" style="margin: 30px 0;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaimeCabary&theme=dark&border_radius=8&border=FF8C00&fire=FF8C00&ring=FF8C00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF8C00&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub Streak Stats" style="width: 100%;"/>
-</div>
-
-<!-- Activity Graph -->
-<div align="center" style="margin: 30px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaimeCabary&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=FF8C00&color=FFFFFF&line=FF8C00&point=FFFFFF" alt="GitHub Activity Graph" style="width: 100%;"/>
-</div>
 
 <p align="center" style="margin-top: 30px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=100&section=footer&text=Let's%20build%20the%20future.%20Connect!&fontSize=30" alt="Footer Animated Text"/>
