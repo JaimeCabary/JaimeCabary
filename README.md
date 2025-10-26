@@ -6,7 +6,7 @@
 <h3 align="center">Software Engineer | AI and Web 3 Developer | Samsung Student Ambassador | Founder, Keginator</h3>
 
 <div align="center">
-  <img src="https://zeptaherself.netlify.app/ashii/1000429235-removebg-preview.png" alt="Shalom Chidi-Azuwike Profile Photo" width="150" height="240" style="border-radius: 12px; object-fit: cover; margin: 20px 0 30px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3); border: 3px solid #FF8C00;">
+  <img src="https://zeptaherself.netlify.app/ashii/1000429235-removebg-preview.png" alt="Shalom Chidi-Azuwike Profile Photo" width="150" height="240" style="border-radius: 30px; object-fit: cover; margin: 20px 0 30px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3); border: 3px solid #FF8C00;">
 </div>
 
 <div align="center" style="margin-bottom: 40px;">
