@@ -100,32 +100,36 @@
   
   <figure style="margin: 0;">
     <a href="https://unzep.netlify.app/" target="_blank">
-      <img src="https://zeptaherself.netlify.app/un.png" alt="Screenshot of UN Website Revamp" width="100%" style="border-radius: 8px; border: 1px solid #FF8C00; box-shadow: 0 4px 10px rgba(255, 140, 0, 0.2); height: 140px; object-fit: cover;"/>
+      <img src="https://zeptaherself.netlify.app/un.png" alt="Screenshot of UN Website Revamp" width="70%" style="border-radius: 8px; border: 1px solid #FF8C00; box-shadow: 0 4px 10px rgba(255, 140, 0, 0.2); height: 440px; object-fit: cover;"/>
     </a>
+    <br>
     <figcaption style="font-size: 1em; font-weight: 600; margin-top: 10px; color: #FF8C00;">UN Website Revamp</figcaption>
     <p style="font-size: 0.85em; margin-top: 5px;">Modernized the United Nations website using React & FastAPI.</p>
   </figure>
   
   <figure style="margin: 0;">
     <a href="https://nkmedicals.netlify.app/" target="_blank">
-      <img src="https://zeptaherself.netlify.app/ne/Screenshot%20(1720).png" alt="Screenshot of Lude Health Centre App" width="70%" style="border-radius: 8px; border: 1px solid #FF8C00; box-shadow: 0 4px 10px rgba(255, 140, 0, 0.2); height: 200px; object-fit: cover;"/>
+      <img src="https://zeptaherself.netlify.app/ne/Screenshot%20(1720).png" alt="Screenshot of Lude Health Centre App" width="70%" style="border-radius: 8px; border: 1px solid #FF8C00; box-shadow: 0 4px 10px rgba(255, 140, 0, 0.2); height: 440px; object-fit: cover;"/>
     </a>
+    <br>
     <figcaption style="font-size: 1em; font-weight: 600; margin-top: 10px; color: #FF8C00;">Lude Health Centre App</figcaption>
     <p style="font-size: 0.85em; margin-top: 5px;">Hospital Management System built for an IEEE sponsored project.</p>
   </figure>
 
   <figure style="margin: 0;">
     <a href="https://zeptaherself.netlify.app/#projects" target="_blank">
-      <img src="https://zeptaherself.netlify.app/janessaa.png" alt="Screenshot of Janessa AI Chatbot" width="70%" style="border-radius: 8px; border: 1px solid #FF8C00; box-shadow: 0 4px 10px rgba(255, 140, 0, 0.2); height: 200px; object-fit: cover;"/>
+      <img src="https://zeptaherself.netlify.app/janessaa.png" alt="Screenshot of Janessa AI Chatbot" width="70%" style="border-radius: 8px; border: 1px solid #FF8C00; box-shadow: 0 4px 10px rgba(255, 140, 0, 0.2); height: 440px; object-fit: cover;"/>
     </a>
+    <br>
     <figcaption style="font-size: 1em; font-weight: 600; margin-top: 10px; color: #FF8C00;">Janessa AI Chatbot</figcaption>
     <p style="font-size: 0.85em; margin-top: 5px;">AI-powered customer interaction chatbot using Python (Flask).</p>
   </figure>
   
   <figure style="margin: 0;">
     <a href="https://reigninglife.netlify.app/" target="_blank">
-      <img src="https://zeptaherself.netlify.app/RLS.png" alt="Screenshot of Reigning Life School Website" width="70%" style="border-radius: 8px; border: 1px solid #FF8C00; box-shadow: 0 4px 10px rgba(255, 140, 0, 0.2); height: 200px; object-fit: cover;"/>
+      <img src="https://zeptaherself.netlify.app/RLS.png" alt="Screenshot of Reigning Life School Website" width="70%" style="border-radius: 8px; border: 1px solid #FF8C00; box-shadow: 0 4px 10px rgba(255, 140, 0, 0.2); height: 440px; object-fit: cover;"/>
     </a>
+    <br>
     <figcaption style="font-size: 1em; font-weight: 600; margin-top: 10px; color: #FF8C00;">R.L. School Management</figcaption>
     <p style="font-size: 0.85em; margin-top: 5px;">Full-stack school management system with portals and authentication.</p>
   </figure>
