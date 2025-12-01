@@ -1,11 +1,11 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF8C00&center=true&vCenter=true&width=435&lines=I+Architect+Digital+Realities;Full-Stack+Engineer+%26+AI+Dev;Founder+of+Keginator;Microsoft+%26+Samsung+Ambassador" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&lines=I+Architect+Digital+Realities;Full-Stack+Engineer+%26+AI+Dev;Founder+of+Keginator;Microsoft+%26+Samsung+Ambassador" alt="Typing SVG" />
   </a>
   
   <br />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SHALOM%20CHIDI-AZUWIKE&fontSize=60&fontColor=FF8C00&animation=fadeIn&fontAlignY=35&desc=ZeptaHacker%20%7C%20Software%20Engineer&descFontSize=20&descAlignY=60&descAlign=50" alt="Shalom Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=200&section=header&text=SHALOM%20CHIDI-AZUWIKE&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ZeptaHacker%20%7C%20Software%20Engineer&descFontSize=20&descAlignY=60&descAlign=50" alt="Shalom Header" width="100%" />
 
   <div style="position: relative; margin-top: -60px;">
     <img src="https://zeptaherself.netlify.app/ashii/1000429235-removebg-preview.png" alt="Shalom Profile" width="160" style="border-radius: 50%; border: 4px solid #FF8C00; box-shadow: 0 0 25px rgba(255, 140, 0, 0.8); background-color: #0d1117; padding: 5px;">
@@ -120,7 +120,7 @@
   <tr>
     <td width="55%" valign="top" style="padding-right: 15px;">
       <h3 style="color: #FF8C00; border-left: 3px solid #FF8C00; padding-left: 10px;">💼 CAREER TRAJECTORY</h3>
-      <ul style="color: #c9d1d9;">
+      <ul style="color: #c9d1d9; padding-left: 20px;">
         <li style="margin-bottom: 15px;">
           <b>CEO, Kabary Software & ZeptaHacker</b> <i style="color: #8b949e;">(2019 - Present)</i><br>
           Leading 20+ bespoke AI & MERN solutions.
@@ -143,8 +143,8 @@
     <td width="45%" valign="top" style="border-left: 1px solid #30363d; padding-left: 15px;">
       <h3 style="color: #FF8C00; border-left: 3px solid #FF8C00; padding-left: 10px;">🎨 CREATIVE STUDIO</h3>
       
-      <p style="color: #ffffff; font-weight: bold; background: #21262d; padding: 5px; border-radius: 4px;">📚 Literary Works</p>
-      <ul style="color: #8b949e; font-size: 13px;">
+      <p style="color: #ffffff; font-weight: bold; background: #21262d; padding: 5px; border-radius: 4px; margin-top: 0;">📚 Literary Works</p>
+      <ul style="color: #8b949e; font-size: 13px; padding-left: 20px;">
         <li>The Billionaire's Son</li>
         <li>Caught in Between</li>
         <li>Twin (as Aster L. Lowen)</li>
@@ -152,7 +152,7 @@
       </ul>
 
       <p style="color: #ffffff; font-weight: bold; background: #21262d; padding: 5px; border-radius: 4px;">🎙️ Voice Acting</p>
-      <ul style="color: #8b949e; font-size: 13px;">
+      <ul style="color: #8b949e; font-size: 13px; padding-left: 20px;">
         <li><a href="https://www.voices.com/profile/shalomchidi-azuwike" style="color: #FF8C00;">"Fee fi for fum"</a> (Audiobook)</li>
         <li><a href="https://www.voices.com/profile/shalomchidi-azuwike" style="color: #FF8C00;">"Wonderkids"</a> (Animation)</li>
         <li><a href="https://www.voices.com/profile/shalomchidi-azuwike" style="color: #FF8C00;">"Africa Narration"</a> (Video)</li>
@@ -177,7 +177,7 @@
 <br /><br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=LET'S%20BUILD%20THE%20FUTURE&fontSize=25&fontColor=ffffff&animation=fadeIn" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=120&section=footer&text=LET'S%20BUILD%20THE%20FUTURE&fontSize=25&fontColor=ffffff&animation=fadeIn" width="100%">
   <br>
   <a href="https://zeptaherself.netlify.app/My%20Standard%20Resume.pdf">
     <img src="https://img.shields.io/badge/DOWNLOAD_RESUME-FFFFFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF0000&color=black" style="border: 1px solid #30363d; border-radius: 4px; box-shadow: 0 0 15px white;">
