@@ -170,25 +170,48 @@
       </ul>
     </td>
     
-    <td width="45%" valign="top" style="border-left: 1px solid #30363d; padding-left: 15px;">
-      <h3 style="color: #FF8C00; border-left: 4px solid #FF8C00; padding-left: 10px;">🎨 CREATIVE STUDIO</h3>
-      
-      <p style="color: #ffffff; font-weight: bold; background: #21262d; padding: 5px; border-radius: 4px; margin-top: 0;">📚 Literary Works</p>
-      <ul style="color: #8b949e; font-size: 13px; padding-left: 20px;">
-        <li>The Billionaire's Son</li>
-        <li>Caught in Between</li>
-        <li>Twin (as Aster L. Lowen)</li>
-        <li>Moukawlar and Preschool</li>
-      </ul>
-
-      <p style="color: #ffffff; font-weight: bold; background: #21262d; padding: 5px; border-radius: 4px;">🎙️ Voice Acting</p>
-      <ul style="color: #8b949e; font-size: 13px; padding-left: 20px;">
-        <li><a href="https://www.voices.com/profile/shalomchidi-azuwike" style="color: #FF8C00;">"Fee fi for fum"</a> (Audiobook)</li>
-        <li><a href="https://www.voices.com/profile/shalomchidi-azuwike" style="color: #FF8C00;">"Wonderkids"</a> (Animation)</li>
-        <li><a href="https://www.voices.com/profile/shalomchidi-azuwike" style="color: #FF8C00;">"Africa Narration"</a> (Video)</li>
-        <li><a href="https://www.voices.com/profile/shalomchidi-azuwike" style="color: #FF8C00;">"Second Chances"</a> (Audiobook)</li>
-      </ul>
-    </td>
+    <table border="0" width="100%">
+<tr>
+<td width="55%" valign="top" style="padding-right: 15px;">
+  <h3 style="color: #FF8C00; border-left: 4px solid #FF8C00; padding-left: 10px;">💼 CAREER TRAJECTORY</h3>
+  <ul style="color: #c9d1d9; padding-left: 20px;">
+    <li style="margin-bottom: 15px;">
+      <b>CEO, Kabary Software & ZeptaHacker</b> <i style="color: #8b949e;">(2019 - Present)</i><br>
+      Leading 20+ bespoke AI & MERN solutions.
+    </li>
+    <li style="margin-bottom: 15px;">
+      <b>Microsoft Learn Student Ambassador</b> <i style="color: #8b949e;">(2023 - 2025)</i><br>
+      Mentored 50+ students in Azure & Python.
+    </li>
+    <li style="margin-bottom: 15px;">
+      <b>Samsung Student Ambassador</b> <i style="color: #8b949e;">(2024 - Present)</i><br>
+      Driving campus tech activation.
+    </li>
+    <li>
+      <b>IEEE FUTO Student Secretary</b> <i style="color: #8b949e;">(2025)</i><br>
+      Organized humanitarian tech initiatives.
+    </li>
+  </ul>
+</td>
+<td width="45%" valign="top" style="border-left: 1px solid #30363d; padding-left: 15px;">
+  <h3 style="color: #FF8C00; border-left: 4px solid #FF8C00; padding-left: 10px;">🎨 CREATIVE STUDIO</h3>
+  <p style="color: #ffffff; font-weight: bold; background: #21262d; padding: 5px; border-radius: 4px; margin-top: 0;">📚 Literary Works</p>
+  <ul style="color: #8b949e; font-size: 13px; padding-left: 20px;">
+    <li>The Billionaire's Son</li>
+    <li>Caught in Between</li>
+    <li>Twin (as Aster L. Lowen)</li>
+    <li>Moukawlar and Preschool</li>
+  </ul>
+  <p style="color: #ffffff; font-weight: bold; background: #21262d; padding: 5px; border-radius: 4px;">🎙️ Voice Acting</p>
+  <ul style="color: #8b949e; font-size: 13px; padding-left: 20px;">
+    <li><a href="https://www.voices.com/profile/shalomchidi-azuwike" style="color: #FF8C00;">"Fee fi for fum"</a> (Audiobook)</li>
+    <li><a href="https://www.voices.com/profile/shalomchidi-azuwike" style="color: #FF8C00;">"Wonderkids"</a> (Animation)</li>
+    <li><a href="https://www.voices.com/profile/shalomchidi-azuwike" style="color: #FF8C00;">"Africa Narration"</a> (Video)</li>
+    <li><a href="https://www.voices.com/profile/shalomchidi-azuwike" style="color: #FF8C00;">"Second Chances"</a> (Audiobook)</li>
+  </ul>
+</td>
+</tr>
+</table>
   </tr>
 </table>
 
