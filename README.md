@@ -31,13 +31,14 @@
 </div>
 
 <br />
+<div align="center">
  <img src="https://visitor-badge.laobi.icu/badge?page_id=JaimeCabary.JaimeCabary&style=for-the-badge&color=orange" alt="Visitors" />
 
   
   <a href="https://zeptaherself.netlify.app/My%20Standard%20Resume.pdf">
     <img src="https://img.shields.io/badge/DOWNLOAD_RESUME-FFFFFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF0000&color=black" style="border: 1px solid #30363d; border-radius: 4px; box-shadow: 0 0 15px white;">
   </a>
-
+</div>
 <h2 align="center" style="color: #FF8C00; border-bottom: 2px solid #30363d;">🕹️ THE ARCADE</h2>
 <div align="center">
   <picture>
