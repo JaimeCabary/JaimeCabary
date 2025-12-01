@@ -1,25 +1,25 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&lines=I+Architect+Digital+Realities;Full-Stack+Engineer+%26+AI+Dev;Founder+of+Keginator;Microsoft+%26+Samsung+Ambassador" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF8C00&center=true&vCenter=true&width=650&lines=I+Architect+Digital+Realities;CEO+of+Kabary+Software;Full-Stack+Engineer+%26+AI+Specialist;Microsoft+%26+Samsung+Ambassador;Building+Uruella+AI+%26+Totum" alt="Typing SVG" />
   </a>
   
   <br />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=200&section=header&text=SHALOM%20CHIDI-AZUWIKE&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ZeptaHacker%20%7C%20Software%20Engineer&descFontSize=20&descAlignY=60&descAlign=50" alt="Shalom Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=220&section=header&text=SHALOM%20CHIDI-AZUWIKE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ZeptaHacker%20%7C%20Software%20Engineer&descFontSize=20&descAlignY=60&descAlign=50" alt="Shalom Header" width="100%" />
 
-  <div style="position: relative; margin-top: -60px;">
-    <img src="https://zeptaherself.netlify.app/ashii/1000429235-removebg-preview.png" alt="Shalom Profile" width="160" style="border-radius: 50%; border: 4px solid #FF8C00; box-shadow: 0 0 25px rgba(255, 140, 0, 0.8); background-color: #0d1117; padding: 5px;">
+  <div style="position: relative; margin-top: -65px;">
+    <img src="https://zeptaherself.netlify.app/ashii/1000429235-removebg-preview.png" alt="Shalom Profile" width="170" style="border-radius: 50%; border: 5px solid #FF8C00; box-shadow: 0 0 30px rgba(255, 140, 0, 0.8); background-color: #0d1117; padding: 5px;">
   </div>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=16&pause=1000&color=c9d1d9&center=true&width=500&lines=Initializing+neural+link...;Loading+MERN+Stack+modules...;Connecting+to+AI+Interface...;ACCESS+GRANTED" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=16&pause=1000&color=c9d1d9&center=true&width=550&lines=Initializing+neural+link...;Loading+MERN+Stack+modules...;Connecting+to+AI+Interface...;ACCESS+GRANTED" />
   
-  <p style="font-size: 1.1em; color: #c9d1d9; max-width: 700px; line-height: 1.8;">
-    I build immersive applications that bridge the gap between human creativity and machine intelligence. 
-    <br>
+  <p style="font-size: 1.1em; color: #c9d1d9; max-width: 750px; line-height: 1.8;">
+    I build immersive applications that bridge the gap between human creativity and machine intelligence. Specializing in the <b>MERN Stack, Python, and AI</b>, I deliver end-to-end solutions that drive real-world impact.
+    <br><br>
     <b>🚀 Founder:</b> Keginator & ZeptaHacker Innovations &nbsp;|&nbsp; <b>⚡ Ambassador:</b> Samsung & Microsoft Learn
   </p>
 
@@ -34,9 +34,18 @@
 
 <br />
 
+<h3 align="center" style="color: #FF8C00;">🏆 ACHIEVEMENTS UNLOCKED</h3>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=JaimeCabary&theme=radical&column=7&no-frame=true&margin-w=15&margin-h=15" width="100%" />
+  </a>
+</div>
+
+<br />
+
 <h3 align="center" style="color: #FF8C00;">🛠️ LIVE TECH ARSENAL</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,react,nextjs,nodejs,flask,tensorflow,flutter,dart,mysql,aws,git,linux,postman,figma,md,vscode&perline=17" />
+  <img src="https://skillicons.dev/icons?i=py,js,react,nextjs,nodejs,flask,tensorflow,flutter,dart,mysql,mongodb,aws,git,linux,postman,figma,md,vscode&perline=18" />
 </div>
 
 <br /><br />
@@ -47,23 +56,22 @@
 <div align="center">
   <table style="border: none; background-color: transparent; width: 100%;">
     <tr>
-      <td width="50%" align="center" style="padding: 10px;">
-        <p style="color: #FF8C00; font-size: 14px; font-weight: bold; letter-spacing: 2px;">CONTRIBUTION MATRIX</p>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaimeCabary/JaimeCabary/output/pacman-contribution-graph-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaimeCabary/JaimeCabary/output/pacman-contribution-graph.svg">
-          <img alt="Pacman graph" src="https://raw.githubusercontent.com/JaimeCabary/JaimeCabary/output/pacman-contribution-graph.svg" width="100%">
-        </picture>
+      <td width="55%" align="center" style="padding: 5px;">
+         <img src="https://github-readme-stats.vercel.app/api?username=JaimeCabary&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=FF8C00&icon_color=FF8C00&text_color=c9d1d9&hide=prs&count_private=true" alt="Stats" width="100%" />
       </td>
-      <td width="50%" align="center" style="padding: 10px;">
-        <p style="color: #FF8C00; font-size: 14px; font-weight: bold; letter-spacing: 2px;">DATA STREAM</p>
-        <img src="https://github-readme-stats.vercel.app/api?username=JaimeCabary&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=FF8C00&icon_color=FF8C00&text_color=c9d1d9&hide=prs" alt="Stats" width="100%" />
+      <td width="45%" align="center" style="padding: 5px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeCabary&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=FF8C00&text_color=c9d1d9" alt="Languages" width="100%" />
       </td>
     </tr>
   </table>
   
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaimeCabary&theme=dark&hide_border=true&background=0d1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00" alt="Streak" width="90%">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaimeCabary&theme=dark&hide_border=true&background=0d1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=c9d1d9&dates=c9d1d9" alt="Streak" width="95%">
+  
+  <br><br>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaimeCabary&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=FF8C00&color=FFFFFF&line=FF8C00&point=FFFFFF" width="100%">
 </div>
 
 <br /><br />
@@ -74,7 +82,28 @@
 <table border="0" width="100%">
   <tr>
     <td width="50%" valign="top" style="padding: 10px;">
-      <div align="center" style="border: 1px solid #FF8C00; border-radius: 12px; padding: 10px; background-color: #161b22; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
+      <div align="center" style="border: 1px solid #FF8C00; border-radius: 12px; padding: 10px; background-color: #161b22; box-shadow: 0 4px 15px rgba(0,0,0,0.5);">
+        <a href="https://github.com/JaimeCabary"><img src="PUT_URUELLA_IMAGE_LINK_HERE" alt="Uruella AI" width="100%" style="border-radius: 8px; border: 1px solid #30363d; min-height: 150px; background-color: #000; object-fit: cover;"></a>
+        <br><br>
+        <b style="color: #FF8C00; font-size: 16px;">Uruella AI (Latest)</b>
+        <br>
+        <span style="color: #8b949e; font-size: 12px;">Offline-First AI Assistant • Flutter</span>
+      </div>
+    </td>
+    <td width="50%" valign="top" style="padding: 10px;">
+      <div align="center" style="border: 1px solid #FF8C00; border-radius: 12px; padding: 10px; background-color: #161b22; box-shadow: 0 4px 15px rgba(0,0,0,0.5);">
+        <a href="https://github.com/JaimeCabary"><img src="PUT_TOTUM_IMAGE_LINK_HERE" alt="Totum" width="100%" style="border-radius: 8px; border: 1px solid #30363d; min-height: 150px; background-color: #000; object-fit: cover;"></a>
+        <br><br>
+        <b style="color: #FF8C00; font-size: 16px;">Totum (Latest)</b>
+        <br>
+        <span style="color: #8b949e; font-size: 12px;">Next Gen Software Solution</span>
+      </div>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top" style="padding: 10px;">
+      <div align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 10px; background-color: #161b22;">
         <a href="https://unzep.netlify.app/"><img src="https://zeptaherself.netlify.app/un.png" width="100%" style="border-radius: 8px; border: 1px solid #30363d;"></a>
         <br><br>
         <b style="color: #FF8C00; font-size: 16px;">UN Website Revamp</b>
@@ -83,7 +112,7 @@
       </div>
     </td>
     <td width="50%" valign="top" style="padding: 10px;">
-      <div align="center" style="border: 1px solid #FF8C00; border-radius: 12px; padding: 10px; background-color: #161b22; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
+      <div align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 10px; background-color: #161b22;">
         <a href="https://nkmedicals.netlify.app/"><img src="https://zeptaherself.netlify.app/ne/Screenshot%20(1720).png" width="100%" style="border-radius: 8px; border: 1px solid #30363d;"></a>
         <br><br>
         <b style="color: #FF8C00; font-size: 16px;">Lude Health Centre</b>
@@ -92,9 +121,10 @@
       </div>
     </td>
   </tr>
+  
   <tr>
     <td width="50%" valign="top" style="padding: 10px;">
-      <div align="center" style="border: 1px solid #FF8C00; border-radius: 12px; padding: 10px; background-color: #161b22; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
+      <div align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 10px; background-color: #161b22;">
         <a href="https://zeptaherself.netlify.app/#projects"><img src="https://zeptaherself.netlify.app/janessaa.png" width="100%" style="border-radius: 8px; border: 1px solid #30363d;"></a>
         <br><br>
         <b style="color: #FF8C00; font-size: 16px;">Janessa AI Chatbot</b>
@@ -103,7 +133,7 @@
       </div>
     </td>
     <td width="50%" valign="top" style="padding: 10px;">
-      <div align="center" style="border: 1px solid #FF8C00; border-radius: 12px; padding: 10px; background-color: #161b22; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
+      <div align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 10px; background-color: #161b22;">
         <a href="https://reigninglife.netlify.app/"><img src="https://zeptaherself.netlify.app/RLS.png" width="100%" style="border-radius: 8px; border: 1px solid #30363d;"></a>
         <br><br>
         <b style="color: #FF8C00; font-size: 16px;">R.L. School System</b>
@@ -119,7 +149,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="55%" valign="top" style="padding-right: 15px;">
-      <h3 style="color: #FF8C00; border-left: 3px solid #FF8C00; padding-left: 10px;">💼 CAREER TRAJECTORY</h3>
+      <h3 style="color: #FF8C00; border-left: 4px solid #FF8C00; padding-left: 10px;">💼 CAREER TRAJECTORY</h3>
       <ul style="color: #c9d1d9; padding-left: 20px;">
         <li style="margin-bottom: 15px;">
           <b>CEO, Kabary Software & ZeptaHacker</b> <i style="color: #8b949e;">(2019 - Present)</i><br>
@@ -141,7 +171,7 @@
     </td>
     
     <td width="45%" valign="top" style="border-left: 1px solid #30363d; padding-left: 15px;">
-      <h3 style="color: #FF8C00; border-left: 3px solid #FF8C00; padding-left: 10px;">🎨 CREATIVE STUDIO</h3>
+      <h3 style="color: #FF8C00; border-left: 4px solid #FF8C00; padding-left: 10px;">🎨 CREATIVE STUDIO</h3>
       
       <p style="color: #ffffff; font-weight: bold; background: #21262d; padding: 5px; border-radius: 4px; margin-top: 0;">📚 Literary Works</p>
       <ul style="color: #8b949e; font-size: 13px; padding-left: 20px;">
@@ -156,6 +186,7 @@
         <li><a href="https://www.voices.com/profile/shalomchidi-azuwike" style="color: #FF8C00;">"Fee fi for fum"</a> (Audiobook)</li>
         <li><a href="https://www.voices.com/profile/shalomchidi-azuwike" style="color: #FF8C00;">"Wonderkids"</a> (Animation)</li>
         <li><a href="https://www.voices.com/profile/shalomchidi-azuwike" style="color: #FF8C00;">"Africa Narration"</a> (Video)</li>
+        <li><a href="https://www.voices.com/profile/shalomchidi-azuwike" style="color: #FF8C00;">"Second Chances"</a> (Audiobook)</li>
       </ul>
     </td>
   </tr>
@@ -164,9 +195,14 @@
 <br />
 
 <h3 align="center" style="color: #FF8C00;">💬 ENDORSEMENTS</h3>
-<div style="background-color: #161b22; border: 1px solid #FF8C00; border-left: 8px solid #FF8C00; padding: 20px; border-radius: 6px; margin-bottom: 10px; box-shadow: 0 0 10px rgba(255,140,0,0.2);">
+<div style="background-color: #161b22; border: 1px solid #FF8C00; border-left: 8px solid #FF8C00; padding: 20px; border-radius: 6px; margin-bottom: 15px; box-shadow: 0 0 10px rgba(255,140,0,0.2);">
   <p style="color: #c9d1d9; font-style: italic; margin: 0; font-size: 14px;">"Shalom delivered an exceptional website... Her technical skills combined with creative design sense made our project a huge success."</p>
   <p style="color: #8b949e; font-size: 12px; margin: 10px 0 0 0; font-weight: bold; text-transform: uppercase;">— Dr. Sarah Echefu, CEO, TechVision Solutions</p>
+</div>
+
+<div style="background-color: #161b22; border: 1px solid #FF8C00; border-left: 8px solid #FF8C00; padding: 20px; border-radius: 6px; margin-bottom: 15px; box-shadow: 0 0 10px rgba(255,140,0,0.2);">
+  <p style="color: #c9d1d9; font-style: italic; margin: 0; font-size: 14px;">"Working with Shalom to build a website for the church was the best experience ever and she built something remarkable."</p>
+  <p style="color: #8b949e; font-size: 12px; margin: 10px 0 0 0; font-weight: bold; text-transform: uppercase;">— Pastor Emeka Victor Samuel, Victory Life Global</p>
 </div>
 
 <div style="background-color: #161b22; border: 1px solid #FF8C00; border-left: 8px solid #FF8C00; padding: 20px; border-radius: 6px; box-shadow: 0 0 10px rgba(255,140,0,0.2);">
@@ -179,6 +215,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=120&section=footer&text=LET'S%20BUILD%20THE%20FUTURE&fontSize=25&fontColor=ffffff&animation=fadeIn" width="100%">
   <br>
+  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JaimeCabary.JaimeCabary&style=for-the-badge&color=orange" alt="Visitors" />
+  
+  <br><br>
+  
   <a href="https://zeptaherself.netlify.app/My%20Standard%20Resume.pdf">
     <img src="https://img.shields.io/badge/DOWNLOAD_RESUME-FFFFFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF0000&color=black" style="border: 1px solid #30363d; border-radius: 4px; box-shadow: 0 0 15px white;">
   </a>
