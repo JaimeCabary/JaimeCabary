@@ -205,6 +205,7 @@
     </tr>
   </table>
 </div> -->
+<div align="center">
 
 ## 💼 CAREER TRAJECTORY
 
@@ -220,7 +221,7 @@
 - **IEEE FUTO Student Secretary** *(2025)*  
   Organized humanitarian tech initiatives.
 
-
+</div>
 <br />
 
 <h3 align="center" style="color: #FF8C00;">💬 ENDORSEMENTS</h3>
