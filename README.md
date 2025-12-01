@@ -168,29 +168,8 @@
         </li>
       </ul>
     </td>
-    
-    <td width="45%" valign="top" style="border-left: 1px solid #30363d; padding-left: 15px;">
-      <h3 style="color: #FF8C00; border-left: 4px solid #FF8C00; padding-left: 10px;">🎨 CREATIVE STUDIO</h3>
-      
-      <p style="color: #ffffff; font-weight: bold; background: #21262d; padding: 5px; border-radius: 4px; margin-top: 0;">📚 Literary Works</p>
-      <ul style="color: #8b949e; font-size: 13px; padding-left: 20px;">
-        <li>The Billionaire's Son</li>
-        <li>Caught in Between</li>
-        <li>Twin (as Aster L. Lowen)</li>
-        <li>Moukawlar and Preschool</li>
-      </ul>
-
-      <p style="color: #ffffff; font-weight: bold; background: #21262d; padding: 5px; border-radius: 4px;">🎙️ Voice Acting</p>
-      <ul style="color: #8b949e; font-size: 13px; padding-left: 20px;">
-        <li><a href="https://www.voices.com/profile/shalomchidi-azuwike" style="color: #FF8C00;">"Fee fi for fum"</a> (Audiobook)</li>
-        <li><a href="https://www.voices.com/profile/shalomchidi-azuwike" style="color: #FF8C00;">"Wonderkids"</a> (Animation)</li>
-        <li><a href="https://www.voices.com/profile/shalomchidi-azuwike" style="color: #FF8C00;">"Africa Narration"</a> (Video)</li>
-        <li><a href="https://www.voices.com/profile/shalomchidi-azuwike" style="color: #FF8C00;">"Second Chances"</a> (Audiobook)</li>
-      </ul>
-    </td>
   </tr>
 </table>
-
 <br />
 
 <h3 align="center" style="color: #FF8C00;">💬 ENDORSEMENTS</h3>
