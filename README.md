@@ -2,9 +2,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF8C00&center=true&vCenter=true&width=650&lines=I+Architect+Digital+Realities;CEO+of+Kabary+Software;Full-Stack+Engineer+%26+AI+Specialist;Microsoft+%26+Samsung+Ambassador;Building+Uruella+AI+%26+Totum" alt="Typing SVG" />
   </a>
-  
   <br />
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=220&section=header&text=SHALOM%20CHIDI-AZUWIKE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ZeptaHacker%20%7C%20Software%20Engineer&descFontSize=20&descAlignY=60&descAlign=50" alt="Shalom Header" width="100%" />
 
   <div style="position: relative; margin-top: -65px;">
@@ -18,7 +16,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=16&pause=1000&color=c9d1d9&center=true&width=550&lines=Initializing+neural+link...;Loading+MERN+Stack+modules...;Connecting+to+AI+Interface...;ACCESS+GRANTED" />
   
   <p style="font-size: 1.1em; color: #c9d1d9; max-width: 750px; line-height: 1.8;">
-    I build immersive applications that bridge the gap between human creativity and machine intelligence. Specializing in the <b>MERN Stack, Python, and AI</b>, I deliver end-to-end solutions that drive real-world impact.
+    I build immersive applications that bridge the gap between human creativity and machine intelligence. Specializing in the <b>MERN Stack, Python, and AI</b>.
     <br><br>
     <b>🚀 Founder:</b> Keginator & ZeptaHacker Innovations &nbsp;|&nbsp; <b>⚡ Ambassador:</b> Samsung & Microsoft Learn
   </p>
@@ -34,11 +32,32 @@
 
 <br />
 
-<h3 align="center" style="color: #FF8C00;">🏆 ACHIEVEMENTS UNLOCKED</h3>
+<h2 align="center" style="color: #FF8C00; border-bottom: 2px solid #30363d;">🕹️ THE ARCADE</h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaimeCabary/JaimeCabary/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaimeCabary/JaimeCabary/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution" src="https://raw.githubusercontent.com/JaimeCabary/JaimeCabary/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+
+  <br><br>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JaimeCabary/JaimeCabary/raw/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/JaimeCabary/JaimeCabary/raw/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Contribution" src="https://github.com/JaimeCabary/JaimeCabary/raw/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+<br />
+
+<h3 align="center" style="color: #FF8C00;">🏆 3D HALL OF FAME</h3>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=JaimeCabary&theme=radical&column=7&no-frame=true&margin-w=15&margin-h=15" width="100%" />
   </a>
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaimeCabary&theme=radical" width="100%">
 </div>
 
 <br />
@@ -70,15 +89,8 @@
   </table>
   
   <br>
-  
   <a href="https://github.com/JaimeCabary">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaimeCabary&theme=dark&hide_border=true&background=0d1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="95%">
-  </a>
-  
-  <br><br>
-  
-  <a href="https://github.com/JaimeCabary">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaimeCabary&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=FF8C00&color=FFFFFF&line=FF8C00&point=FFFFFF" width="100%">
   </a>
 </div>
 
@@ -129,27 +141,6 @@
       </div>
     </td>
   </tr>
-  
-  <tr>
-    <td width="50%" valign="top" style="padding: 10px;">
-      <div align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 10px; background-color: #161b22;">
-        <a href="https://zeptaherself.netlify.app/#projects"><img src="https://zeptaherself.netlify.app/janessaa.png" width="100%" style="border-radius: 8px; border: 1px solid #30363d;"></a>
-        <br><br>
-        <b style="color: #FF8C00; font-size: 16px;">Janessa AI Chatbot</b>
-        <br>
-        <span style="color: #8b949e; font-size: 12px;">Python Flask • NLP Integration</span>
-      </div>
-    </td>
-    <td width="50%" valign="top" style="padding: 10px;">
-      <div align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 10px; background-color: #161b22;">
-        <a href="https://reigninglife.netlify.app/"><img src="https://zeptaherself.netlify.app/RLS.png" width="100%" style="border-radius: 8px; border: 1px solid #30363d;"></a>
-        <br><br>
-        <b style="color: #FF8C00; font-size: 16px;">R.L. School System</b>
-        <br>
-        <span style="color: #8b949e; font-size: 12px;">Full Stack Portal • Auth Systems</span>
-      </div>
-    </td>
-  </tr>
 </table>
 
 <br /><br />
@@ -178,48 +169,25 @@
       </ul>
     </td>
     
-    <table border="0" width="100%">
-<tr>
-<td width="55%" valign="top" style="padding-right: 15px;">
-  <h3 style="color: #FF8C00; border-left: 4px solid #FF8C00; padding-left: 10px;">💼 CAREER TRAJECTORY</h3>
-  <ul style="color: #c9d1d9; padding-left: 20px;">
-    <li style="margin-bottom: 15px;">
-      <b>CEO, Kabary Software & ZeptaHacker</b> <i style="color: #8b949e;">(2019 - Present)</i><br>
-      Leading 20+ bespoke AI & MERN solutions.
-    </li>
-    <li style="margin-bottom: 15px;">
-      <b>Microsoft Learn Student Ambassador</b> <i style="color: #8b949e;">(2023 - 2025)</i><br>
-      Mentored 50+ students in Azure & Python.
-    </li>
-    <li style="margin-bottom: 15px;">
-      <b>Samsung Student Ambassador</b> <i style="color: #8b949e;">(2024 - Present)</i><br>
-      Driving campus tech activation.
-    </li>
-    <li>
-      <b>IEEE FUTO Student Secretary</b> <i style="color: #8b949e;">(2025)</i><br>
-      Organized humanitarian tech initiatives.
-    </li>
-  </ul>
-</td>
-<td width="45%" valign="top" style="border-left: 1px solid #30363d; padding-left: 15px;">
-  <h3 style="color: #FF8C00; border-left: 4px solid #FF8C00; padding-left: 10px;">🎨 CREATIVE STUDIO</h3>
-  <p style="color: #ffffff; font-weight: bold; background: #21262d; padding: 5px; border-radius: 4px; margin-top: 0;">📚 Literary Works</p>
-  <ul style="color: #8b949e; font-size: 13px; padding-left: 20px;">
-    <li>The Billionaire's Son</li>
-    <li>Caught in Between</li>
-    <li>Twin (as Aster L. Lowen)</li>
-    <li>Moukawlar and Preschool</li>
-  </ul>
-  <p style="color: #ffffff; font-weight: bold; background: #21262d; padding: 5px; border-radius: 4px;">🎙️ Voice Acting</p>
-  <ul style="color: #8b949e; font-size: 13px; padding-left: 20px;">
-    <li><a href="https://www.voices.com/profile/shalomchidi-azuwike" style="color: #FF8C00;">"Fee fi for fum"</a> (Audiobook)</li>
-    <li><a href="https://www.voices.com/profile/shalomchidi-azuwike" style="color: #FF8C00;">"Wonderkids"</a> (Animation)</li>
-    <li><a href="https://www.voices.com/profile/shalomchidi-azuwike" style="color: #FF8C00;">"Africa Narration"</a> (Video)</li>
-    <li><a href="https://www.voices.com/profile/shalomchidi-azuwike" style="color: #FF8C00;">"Second Chances"</a> (Audiobook)</li>
-  </ul>
-</td>
-</tr>
-</table>
+    <td width="45%" valign="top" style="border-left: 1px solid #30363d; padding-left: 15px;">
+      <h3 style="color: #FF8C00; border-left: 4px solid #FF8C00; padding-left: 10px;">🎨 CREATIVE STUDIO</h3>
+      
+      <p style="color: #ffffff; font-weight: bold; background: #21262d; padding: 5px; border-radius: 4px; margin-top: 0;">📚 Literary Works</p>
+      <ul style="color: #8b949e; font-size: 13px; padding-left: 20px;">
+        <li>The Billionaire's Son</li>
+        <li>Caught in Between</li>
+        <li>Twin (as Aster L. Lowen)</li>
+        <li>Moukawlar and Preschool</li>
+      </ul>
+
+      <p style="color: #ffffff; font-weight: bold; background: #21262d; padding: 5px; border-radius: 4px;">🎙️ Voice Acting</p>
+      <ul style="color: #8b949e; font-size: 13px; padding-left: 20px;">
+        <li><a href="https://www.voices.com/profile/shalomchidi-azuwike" style="color: #FF8C00;">"Fee fi for fum"</a> (Audiobook)</li>
+        <li><a href="https://www.voices.com/profile/shalomchidi-azuwike" style="color: #FF8C00;">"Wonderkids"</a> (Animation)</li>
+        <li><a href="https://www.voices.com/profile/shalomchidi-azuwike" style="color: #FF8C00;">"Africa Narration"</a> (Video)</li>
+        <li><a href="https://www.voices.com/profile/shalomchidi-azuwike" style="color: #FF8C00;">"Second Chances"</a> (Audiobook)</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
@@ -229,11 +197,6 @@
 <div style="background-color: #161b22; border: 1px solid #FF8C00; border-left: 8px solid #FF8C00; padding: 20px; border-radius: 6px; margin-bottom: 15px; box-shadow: 0 0 10px rgba(255,140,0,0.2);">
   <p style="color: #c9d1d9; font-style: italic; margin: 0; font-size: 14px;">"Shalom delivered an exceptional website... Her technical skills combined with creative design sense made our project a huge success."</p>
   <p style="color: #8b949e; font-size: 12px; margin: 10px 0 0 0; font-weight: bold; text-transform: uppercase;">— Dr. Sarah Echefu, CEO, TechVision Solutions</p>
-</div>
-
-<div style="background-color: #161b22; border: 1px solid #FF8C00; border-left: 8px solid #FF8C00; padding: 20px; border-radius: 6px; margin-bottom: 15px; box-shadow: 0 0 10px rgba(255,140,0,0.2);">
-  <p style="color: #c9d1d9; font-style: italic; margin: 0; font-size: 14px;">"Working with Shalom to build a website for the church was the best experience ever and she built something remarkable."</p>
-  <p style="color: #8b949e; font-size: 12px; margin: 10px 0 0 0; font-weight: bold; text-transform: uppercase;">— Pastor Emeka Victor Samuel, Victory Life Global</p>
 </div>
 
 <div style="background-color: #161b22; border: 1px solid #FF8C00; border-left: 8px solid #FF8C00; padding: 20px; border-radius: 6px; box-shadow: 0 0 10px rgba(255,140,0,0.2);">
