@@ -165,7 +165,7 @@
 
 <br /><br />
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
   <table border="0" width="100%" style="margin: 0 auto;">
     <tr>
       <td width="55%" valign="top" style="padding-right: 15px;">
@@ -197,7 +197,22 @@
       </td>
     </tr>
   </table>
-</div>
+</div> -->
+
+## 💼 CAREER TRAJECTORY
+
+- **CEO, Kabary Software & ZeptaHacker** *(2019 - Present)*  
+  Leading 20+ bespoke AI & MERN solutions.
+
+- **Microsoft Learn Student Ambassador** *(2023 - 2025)*  
+  Mentored 50+ students in Azure & Python.
+
+- **Samsung Student Ambassador** *(2024 - Present)*  
+  Driving campus tech activation.
+
+- **IEEE FUTO Student Secretary** *(2025)*  
+  Organized humanitarian tech initiatives.
+
 
 <br />
 
