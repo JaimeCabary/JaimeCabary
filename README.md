@@ -120,6 +120,26 @@
       </div>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding: 10px;">
+      <div align="center" style="border: 1px solid #FF8C00; border-radius: 12px; padding: 10px; background-color: #161b22; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
+        <a href="https://zeptaherself.netlify.app/#projects"><img src="https://zeptaherself.netlify.app/janessaa.png" width="100%" style="border-radius: 8px; border: 1px solid #30363d;"></a>
+        <br><br>
+        <b style="color: #FF8C00; font-size: 16px;">Janessa AI Chatbot</b>
+        <br>
+        <span style="color: #8b949e; font-size: 12px;">Python Flask • NLP Integration</span>
+      </div>
+    </td>
+    <td width="50%" valign="top" style="padding: 10px;">
+      <div align="center" style="border: 1px solid #FF8C00; border-radius: 12px; padding: 10px; background-color: #161b22; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
+        <a href="https://reigninglife.netlify.app/"><img src="https://zeptaherself.netlify.app/RLS.png" width="100%" style="border-radius: 8px; border: 1px solid #30363d;"></a>
+        <br><br>
+        <b style="color: #FF8C00; font-size: 16px;">R.L. School System</b>
+        <br>
+        <span style="color: #8b949e; font-size: 12px;">Full Stack Portal • Auth Systems</span>
+      </div>
+    </td>
+  </tr>
   
   <tr>
     <td width="50%" valign="top" style="padding: 10px;">
