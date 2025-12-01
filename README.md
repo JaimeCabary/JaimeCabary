@@ -18,7 +18,7 @@
   <p style="font-size: 1.1em; color: #c9d1d9; max-width: 750px; line-height: 1.8;">
     I build immersive applications that bridge the gap between human creativity and machine intelligence. Specializing in the <b>MERN Stack, Python, and AI</b>.
     <br><br>
-    <b>🚀 Founder:</b> Keginator & ZeptaHacker Innovations &nbsp;|&nbsp; <b>⚡ Ambassador:</b> Samsung & Microsoft Learn
+    <b>🚀 Founder:</b> Uruella AI & KSU Ecosystem &nbsp;|&nbsp; <b>⚡ Ambassador:</b> Samsung & Microsoft Learn
   </p>
 
   <p>
@@ -26,7 +26,7 @@
     <a href="https://www.linkedin.com/in/shalom-chidi-azuwike-752b47321"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://x.com/JaimeCabary"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"></a>
     <a href="https://medium.com/@shazzyazuwike"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-    <a href="https://zeptaherself.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-D42426?style=for-the-badge&logo=netlify&logoColor=white"></a>
+    <a href="https://azuwikehalom.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-D42426?style=for-the-badge&logo=netlify&logoColor=white"></a>
   </p>
 </div>
 
