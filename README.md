@@ -165,31 +165,40 @@
 
 <br /><br />
 
-<table border="0" width="100%">
-  <tr>
-    <td width="55%" valign="top" style="padding-right: 15px;">
-      <h3 style="color: #FF8C00; border-left: 4px solid #FF8C00; padding-left: 10px;">💼 CAREER TRAJECTORY</h3>
-      <ul style="color: #c9d1d9; padding-left: 20px;">
-        <li style="margin-bottom: 15px;">
-          <b>CEO, Kabary Software & ZeptaHacker</b> <i style="color: #8b949e;">(2019 - Present)</i><br>
-          Leading 20+ bespoke AI & MERN solutions.
-        </li>
-        <li style="margin-bottom: 15px;">
-          <b>Microsoft Learn Student Ambassador</b> <i style="color: #8b949e;">(2023 - 2025)</i><br>
-          Mentored 50+ students in Azure & Python.
-        </li>
-        <li style="margin-bottom: 15px;">
-          <b>Samsung Student Ambassador</b> <i style="color: #8b949e;">(2024 - Present)</i><br>
-          Driving campus tech activation.
-        </li>
-        <li>
-          <b>IEEE FUTO Student Secretary</b> <i style="color: #8b949e;">(2025)</i><br>
-          Organized humanitarian tech initiatives.
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div style="text-align: center;">
+  <table border="0" width="100%" style="margin: 0 auto;">
+    <tr>
+      <td width="55%" valign="top" style="padding-right: 15px;">
+        <h3 style="color: #FF8C00; border-left: 4px solid #FF8C00; padding-left: 10px;">
+          💼 CAREER TRAJECTORY
+        </h3>
+        <ul style="color: #c9d1d9; padding-left: 20px;">
+          <li style="margin-bottom: 15px;">
+            <b>CEO, Kabary Software & ZeptaHacker</b> 
+            <i style="color: #8b949e;">(2019 - Present)</i><br>
+            Leading 20+ bespoke AI & MERN solutions.
+          </li>
+          <li style="margin-bottom: 15px;">
+            <b>Microsoft Learn Student Ambassador</b> 
+            <i style="color: #8b949e;">(2023 - 2025)</i><br>
+            Mentored 50+ students in Azure & Python.
+          </li>
+          <li style="margin-bottom: 15px;">
+            <b>Samsung Student Ambassador</b> 
+            <i style="color: #8b949e;">(2024 - Present)</i><br>
+            Driving campus tech activation.
+          </li>
+          <li>
+            <b>IEEE FUTO Student Secretary</b> 
+            <i style="color: #8b949e;">(2025)</i><br>
+            Organized humanitarian tech initiatives.
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <br />
 
 <h3 align="center" style="color: #FF8C00;">💬 ENDORSEMENTS</h3>
