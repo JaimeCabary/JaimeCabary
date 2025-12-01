@@ -83,7 +83,7 @@
   <tr>
     <td width="50%" valign="top" style="padding: 10px;">
       <div align="center" style="border: 1px solid #FF8C00; border-radius: 12px; padding: 10px; background-color: #161b22; box-shadow: 0 4px 15px rgba(0,0,0,0.5);">
-        <a href="https://github.com/JaimeCabary"><img src="PUT_URUELLA_IMAGE_LINK_HERE" alt="Uruella AI" width="100%" style="border-radius: 8px; border: 1px solid #30363d; min-height: 150px; background-color: #000; object-fit: cover;"></a>
+        <a href="https://github.com/JaimeCabary"><img src="https://azuwikeshalom.vercel.app/uruella.png" alt="Uruella AI" width="100%" style="border-radius: 8px; border: 1px solid #30363d; min-height: 150px; background-color: #000; object-fit: cover;"></a>
         <br><br>
         <b style="color: #FF8C00; font-size: 16px;">Uruella AI (Latest)</b>
         <br>
@@ -92,7 +92,7 @@
     </td>
     <td width="50%" valign="top" style="padding: 10px;">
       <div align="center" style="border: 1px solid #FF8C00; border-radius: 12px; padding: 10px; background-color: #161b22; box-shadow: 0 4px 15px rgba(0,0,0,0.5);">
-        <a href="https://github.com/JaimeCabary"><img src="PUT_TOTUM_IMAGE_LINK_HERE" alt="Totum" width="100%" style="border-radius: 8px; border: 1px solid #30363d; min-height: 150px; background-color: #000; object-fit: cover;"></a>
+        <a href="https://github.com/JaimeCabary"><img src="https://azuwikeshalom.vercel.app/totum-revamp.png" alt="Totum" width="100%" style="border-radius: 8px; border: 1px solid #30363d; min-height: 150px; background-color: #000; object-fit: cover;"></a>
         <br><br>
         <b style="color: #FF8C00; font-size: 16px;">Totum (Latest)</b>
         <br>
