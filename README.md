@@ -57,21 +57,29 @@
   <table style="border: none; background-color: transparent; width: 100%;">
     <tr>
       <td width="55%" align="center" style="padding: 5px;">
-         <img src="https://github-readme-stats.vercel.app/api?username=JaimeCabary&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=FF8C00&icon_color=FF8C00&text_color=c9d1d9&hide=prs&count_private=true" alt="Stats" width="100%" />
+        <a href="https://github.com/JaimeCabary">
+          <img src="https://github-readme-stats.vercel.app/api?username=JaimeCabary&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF8C00&icon_color=FF8C00&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="Shalom's GitHub Stats" width="100%" />
+        </a>
       </td>
       <td width="45%" align="center" style="padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeCabary&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=FF8C00&text_color=c9d1d9" alt="Languages" width="100%" />
+        <a href="https://github.com/JaimeCabary">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeCabary&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF8C00&text_color=c9d1d9&langs_count=8" alt="Shalom's Top Languages" width="100%" />
+        </a>
       </td>
     </tr>
   </table>
   
   <br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaimeCabary&theme=dark&hide_border=true&background=0d1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=c9d1d9&dates=c9d1d9" alt="Streak" width="95%">
+  <a href="https://github.com/JaimeCabary">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaimeCabary&theme=dark&hide_border=true&background=0d1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="95%">
+  </a>
   
   <br><br>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaimeCabary&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=FF8C00&color=FFFFFF&line=FF8C00&point=FFFFFF" width="100%">
+  <a href="https://github.com/JaimeCabary">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaimeCabary&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=FF8C00&color=FFFFFF&line=FF8C00&point=FFFFFF" width="100%">
+  </a>
 </div>
 
 <br /><br />
