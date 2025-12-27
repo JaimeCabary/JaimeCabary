@@ -174,7 +174,7 @@
 
 <br /><br />
 
-<div align="center" style="border: 1px solid #228B22; border-radius: 10px; padding: 20px; background-color: #161b22; width: 90%;">
+<!-- <div align="center" style="border: 1px solid #228B22; border-radius: 10px; padding: 20px; background-color: #161b22; width: 90%;">
   <h3 style="color: #D42426; margin-bottom: 10px;">💼 CAREER TRAJECTORY (THE NICE LIST)</h3>
   <ul style="text-align: left; color: #c9d1d9; list-style-type: square; margin: 0 auto; display: inline-block;">
     <li style="margin-bottom: 10px;">
@@ -194,7 +194,7 @@
       Organized humanitarian tech initiatives.
     </li>
   </ul>
-</div>
+</div> -->
 
 <br />
 
