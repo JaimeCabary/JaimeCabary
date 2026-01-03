@@ -1,0 +1,23 @@
+name: gitartwork
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: jasineri/gitartwork@v1
+        with:
+          user_name: JaimeCabary
+          text_color: '#FF4500'
+          bg_color: '#0d1117'
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Updated gitartwork [skip ci]"
