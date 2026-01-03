@@ -431,9 +431,9 @@
   </ul>
 </div> -->
 
-<br />
+<!-- <br /> -->
 
-<h3 align="center" style="color: #D42426;">💬 ENDORSEMENTS</h3>
+<!-- <h3 align="center" style="color: #D42426;">💬 ENDORSEMENTS</h3>
 <div style="background-color: #161b22; border: 1px solid #D42426; border-left: 8px solid #228B22; padding: 20px; border-radius: 6px; margin-bottom: 15px; box-shadow: 0 0 10px rgba(212, 36, 38, 0.2);">
   <p style="color: #c9d1d9; font-style: italic; margin: 0; font-size: 14px;">"Shalom delivered an exceptional website... Her technical skills combined with creative design sense made our project a huge success."</p>
   <p style="color: #8b949e; font-size: 12px; margin: 10px 0 0 0; font-weight: bold; text-transform: uppercase;">— Dr. Sarah Echefu, CEO, TechVision Solutions</p>
