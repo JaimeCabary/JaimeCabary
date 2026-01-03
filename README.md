@@ -18,7 +18,7 @@
 
 <div align="center">
   <p style="font-size: 1.1em; color: #c9d1d9; max-width: 750px; line-height: 1.8;">
-    I build immersive applications that bridge the gap between human creativity and machine intelligence. Specializing in <b>Offline-First AI, Python, and High-Performance Systems</b>.
+    I build immersive applications that bridge the gap between human creativity and machine intelligence. Specializing in the <b>MERN Stack, Python, and AI</b>.
     <br><br>
     <b>🚀 Founder:</b> Uruella AI & KSU Ecosystem &nbsp;|&nbsp; <b>⚡ Ambassador:</b> Samsung & Microsoft Learn
   </p>
@@ -36,9 +36,9 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=JaimeCabary.JaimeCabary&style=flat-square&color=FF4500" alt="Visitors" />
-  
+  &nbsp;
   <a href="https://zeptaherself.netlify.app/My%20Standard%20Resume.pdf">
-    <img src="https://img.shields.io/badge/DOWNLOAD_RESUME-FFFFFF?style=flat-square&logo=adobeacrobatreader&logoColor=FF4500&color=0d1117" style="border: 1px solid #30363d;">
+    <img src="https://img.shields.io/badge/DOWNLOAD_RESUME-FFFFFF?style=flat-square&logo=adobeacrobatreader&logoColor=FF4500&color=0d1117" style="border: 1px solid #FF4500;">
   </a>
 </div>
 
@@ -50,6 +50,12 @@
 <h2 align="center" style="color: #FF4500;">🕹️ NEURAL NETWORK</h2>
 <div align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaimeCabary/JaimeCabary/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaimeCabary/JaimeCabary/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution" src="https://raw.githubusercontent.com/JaimeCabary/JaimeCabary/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+  <br><br>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JaimeCabary/JaimeCabary/raw/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/JaimeCabary/JaimeCabary/raw/output/github-contribution-grid-snake.svg">
     <img alt="Snake Contribution" src="https://github.com/JaimeCabary/JaimeCabary/raw/output/github-contribution-grid-snake.svg" width="100%">
@@ -60,13 +66,16 @@
   <img src="gitartwork.svg" alt="GitArtwork" width="100%">
 </div>
 
-<h3 align="center" style="color: #FF4500;">🏆 HALL OF FAME</h3>
+<h3 align="center" style="color: #FF4500;">🏆 HALL OF FAME & DOSSIERS</h3>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=JaimeCabary&theme=darkhub&column=7&no-frame=true&margin-w=15&margin-h=15" width="100%" />
   </a>
   <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaimeCabary&theme=2077" width="100%">
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JaimeCabary&theme=2077" width="45%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaimeCabary&theme=2077" width="45%">
 </div>
 
 <br />
@@ -76,15 +85,8 @@
   <img src="https://skillicons.dev/icons?i=py,js,react,nextjs,nodejs,flask,tensorflow,flutter,dart,mysql,mongodb,aws,git,linux,postman,figma,md,vscode&perline=18&theme=dark" />
 </div>
 
-<h2 align="center" style="color: #FF4500; border-bottom: 2px solid #FF4500;">📝 LATEST TRANSMISSIONS</h2>
-<div align="center">
-  </div>
-
-<br />
-
 <h2 align="center" style="color: #FF4500; border-bottom: 2px solid #FF4500;">❄️ SYSTEM METRICS</h2>
 <br>
-
 <div align="center">
   <table style="border: none; background-color: transparent; width: 100%;">
     <tr>
@@ -100,18 +102,23 @@
       </td>
     </tr>
   </table>
-  
   <br>
   <a href="https://github.com/JaimeCabary">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaimeCabary&theme=dark&hide_border=true&background=0d1117&ring=FF4500&fire=FF4500&currStreakLabel=FF4500&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="95%">
   </a>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaimeCabary&bg_color=0d1117&color=FF4500&line=FF4500&point=FFFFFF&area=true&hide_border=true" width="100%">
 </div>
 
-<br /><br />
+<br />
+
+<h2 align="center" style="color: #FF4500;">⏳ CHRONO-METRICS</h2>
+<div align="center">
+  </div>
+<br>
 
 <h2 align="center" style="color: #FF4500; border-bottom: 2px solid #FF4500;">🎁 DEPLOYED ARCHIVES</h2>
 <br>
-
 <table border="0" width="100%">
   <tr>
     <td width="50%" valign="top" style="padding: 10px;">
@@ -133,7 +140,6 @@
       </div>
     </td>
   </tr>
-  
   <tr>
     <td width="50%" valign="top" style="padding: 10px;">
       <div align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 10px; background-color: #161b22;">
@@ -154,7 +160,6 @@
       </div>
     </td>
   </tr>
-  
   <tr>
     <td width="50%" valign="top" style="padding: 10px;">
       <div align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 10px; background-color: #161b22;">
@@ -184,40 +189,18 @@
   <p style="color: #c9d1d9; font-style: italic; margin: 0; font-size: 14px;">"Shalom delivered an exceptional website... Her technical skills combined with creative design sense made our project a huge success."</p>
   <p style="color: #8b949e; font-size: 12px; margin: 10px 0 0 0; font-weight: bold; text-transform: uppercase;">— Dr. Sarah Echefu, CEO, TechVision Solutions</p>
 </div>
-
 <div style="background-color: #161b22; border: 1px solid #FF4500; border-left: 8px solid #c9d1d9; padding: 20px; border-radius: 6px; box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);">
   <p style="color: #c9d1d9; font-style: italic; margin: 0; font-size: 14px;">"She built our business management app with incredible attention to detail and user experience."</p>
   <p style="color: #8b949e; font-size: 12px; margin: 10px 0 0 0; font-weight: bold; text-transform: uppercase;">— Emmanuel Stanley, Director, Digital Dynamics</p>
 </div>
 
-<br /><br />
-
-<h2 align="center" style="color: #FF4500;">📂 CLASSIFIED DOSSIERS</h2>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaimeCabary&theme=2077" width="100%">
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JaimeCabary&theme=2077" width="45%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaimeCabary&theme=2077" width="45%">
-</div>
-<br>
-
-<h2 align="center" style="color: #FF4500;">⚡ SIGNAL FREQUENCY</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaimeCabary&bg_color=0d1117&color=FF4500&line=FF4500&point=FFFFFF&area=true&hide_border=true" width="100%">
-</div>
-<br>
-
-<h2 align="center" style="color: #FF4500;">⏳ CHRONO-METRICS (CODING TIME)</h2>
-<div align="center">
-  </div>
-<br>
+<br />
 
 <h2 align="center" style="color: #FF4500;">🌍 GLOBAL CONNECTIONS</h2>
 <div align="center">
   <img src="https://s01.flagcounter.com/countxl/JaimeCabary/bg_0D1117/txt_FF4500/border_0D1117/columns_8/maxflags_12/viewers_0/labels_0/page_1/" alt="Flag Counter" border="0">
 </div>
 <br>
-
 <h2 align="center" style="color: #FF4500;">🤝 ALLIANCE MEMBERS</h2>
 <div align="center">
   <a href="https://github.com/JaimeCabary/Uruella-AI/stargazers">
@@ -225,11 +208,11 @@
   </a>
 </div>
 
+<br />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=120&section=footer&text=LET'S%20BUILD%20THE%20FUTURE&fontSize=25&fontColor=ffffff&animation=fadeIn" width="100%">
 </div>
-
 
 
 
