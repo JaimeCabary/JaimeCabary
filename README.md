@@ -277,12 +277,12 @@
     </td>
     <td width="50%" valign="top">
       <div align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 12px; background-color: #161b22;">
-        <a href="https://nkmedicals.netlify.app/">
-          <img src="https://zeptaherself.netlify. app/ne/Screenshot%20(1720).png" width="100%" style="border-radius: 8px;">
+        <a href="https://uruwlla.vercel.app/">
+          <img src="https://shacodone.vercel.app/slides/slide-1.jpg" width="100%" style="border-radius: 8px;">
         </a>
         <br /><br />
-        <h4 style="color:  #c9d1d9; margin: 8px 0;">🏥 Lude Health Centre</h4>
-        <p style="color: #8b949e; font-size: 12px;">IEEE Sponsored • Hospital Management System</p>
+        <h4 style="color:  #c9d1d9; margin: 8px 0;"> Uruella AI</h4>
+        <p style="color: #8b949e; font-size: 12px;">Offline AI</p>
       </div>
     </td>
   </tr>
