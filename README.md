@@ -1,4 +1,409 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api? type=waving&color=gradient&customColorList=12,2,20,24&height=250&section=header&text=SHALOM%20CHIDI-AZUWIKE&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ZeptaHacker%20•%20AI%20Architect%20•%20Full%20Stack%20Innovator&descAlignY=52&descSize=18" width="100%">
+
+  <div style="position: relative; margin-top: -80px;">
+    <a href="https://azuwikeshalom.vercel. app/">
+      <img src="https://zeptaherself.netlify. app/ashii/1000429235-removebg-preview.png" alt="Shalom Profile" width="180" style="border-radius: 50%; border: 5px solid #FF4500; box-shadow: 0 0 40px rgba(255, 69, 0, 0.6); transition: transform 0.3s ease;">
+    </a>
+  </div>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab. com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=700&height=60&lines=System+Status%3A+ONLINE+%E2%9C%85;Building+Uruella+AI+%26+Totum+%F0%9F%9A%80;MERN+Stack+%7C+Python+%7C+AI%2FML+Expert;Transforming+Ideas+into+Reality+%F0%9F%92%A1;Open+to+Collaborations+%F0%9F%A4%9D" alt="Typing SVG">
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <p style="font-size: 1.2em; color: #c9d1d9; max-width: 800px; line-height: 1.8; margin: 0 auto;">
+    I build <b>immersive applications</b> that bridge the gap between <b>human creativity</b> and <b>machine intelligence</b>. 
+    <br>Specializing in <b>MERN Stack, Python, Flutter, and AI/ML</b>. 
+    <br><br>
+    <b>🚀 Founder: </b> Uruella AI & KSU Ecosystem &nbsp;|&nbsp; <b>⚡ Ambassador:</b> Samsung & Microsoft Learn
+    <br><b>🎯 Mission:</b> Empowering Africa through Technology
+  </p>
+
+  <br />
+
+  <p>
+    <a href="https://github.com/JaimeCabary">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717">
+    </a>
+    <a href="https://www.linkedin.com/in/shalom-chidi-azuwike-752b47321">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://x.com/JaimeCabary">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white">
+    </a>
+    <a href="https://medium.com/@shazzyazuwike">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+    </a>
+    <a href="https://azuwikeshalom.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=netlify&logoColor=white">
+    </a>
+  </p>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://visitor-badge.laobi. icu/badge?page_id=JaimeCabary.JaimeCabary&style=flat-square&color=FF4500" alt="Profile Visitors" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/JaimeCabary?label=Followers&style=flat-square&color=FF4500&logo=github" alt="GitHub Followers" />
+  &nbsp;&nbsp;
+  <a href="https://zeptaherself.netlify. app/My%20Standard%20Resume. pdf">
+    <img src="https://img.shields.io/badge/📄_DOWNLOAD_RESUME-FF4500?style=flat-square&labelColor=0d1117" alt="Resume">
+  </a>
+</div>
+
+<br />
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
+  <span style="color: #FF4500;">DIGITAL ARCHITECTURE</span>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-left: 10px;">
+</h2>
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%">
+</div>
+
+<br />
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" alt="Git">
+  <span style="color:  #FF4500;">NEURAL NETWORK ACTIVITY</span>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" alt="Git">
+</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaimeCabary/JaimeCabary/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaimeCabary/JaimeCabary/output/pacman-contribution-graph. svg">
+    <img alt="Pacman Contribution Animation" src="https://raw.githubusercontent.com/JaimeCabary/JaimeCabary/output/pacman-contribution-graph. svg" width="100%">
+  </picture>
+  
+  <br /><br />
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JaimeCabary/JaimeCabary/raw/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/JaimeCabary/JaimeCabary/raw/output/github-contribution-grid-snake. svg">
+    <img alt="Snake Contribution Animation" src="https://github.com/JaimeCabary/JaimeCabary/raw/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="gitartwork.svg" alt="GitArtwork Contribution" width="100%">
+</div>
+
+<br />
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
+  <span style="color:  #FF4500;">TECH ARSENAL</span>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
+</h2>
+
+<div align="center">
+  <h3>⚡ Languages</h3>
+  <img src="https://skillicons.dev/icons?i=py,js,ts,dart,html,css,java,cpp&perline=8&theme=dark" />
+  
+  <h3>🚀 Frameworks & Libraries</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,tensorflow,flutter,tailwind&perline=8&theme=dark" />
+  
+  <h3>🗄️ Databases & Cloud</h3>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,aws,gcp,redis,prisma&perline=8&theme=dark" />
+  
+  <h3>🛠️ Tools & Platforms</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma,notion&perline=8&theme=dark" />
+</div>
+
+<br />
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
+  <span style="color:  #FF4500;">HALL OF FAME</span>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
+</h2>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=JaimeCabary&theme=radical&column=4&row=2&no-frame=false&no-bg=false&margin-w=15&margin-h=15" width="90%" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details? username=JaimeCabary&theme=radical" width="100%">
+  <br /><br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JaimeCabary&theme=radical" width="32%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JaimeCabary&theme=radical&utcOffset=1" width="32%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaimeCabary&theme=radical" width="32%">
+</div>
+
+<br />
+
+---
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif? cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35">
+  <span style="color: #FF4500;">SYSTEM METRICS</span>
+  <img src="https://media2.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy. gif" width="35">
+</h2>
+
+<div align="center">
+  <table style="border:  none; background-color: transparent; width: 100%;">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <a href="https://github.com/JaimeCabary">
+          <img src="https://github-readme-stats.vercel. app/api?username=JaimeCabary&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF4500&icon_color=FF4500&text_color=c9d1d9&count_private=true&include_all_commits=true&custom_title=GitHub%20Statistics" width="100%" alt="GitHub Stats">
+        </a>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <a href="https://github.com/JaimeCabary">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeCabary&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF4500&text_color=c9d1d9&langs_count=10&custom_title=Most%20Used%20Languages" width="100%" alt="Top Languages">
+        </a>
+      </td>
+    </tr>
+  </table>
+  
+  <br />
+  
+  <a href="https://github.com/JaimeCabary">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaimeCabary&theme=radical&hide_border=true&background=0d1117&ring=FF4500&fire=FF4500&currStreakLabel=FF4500&sideLabels=c9d1d9&dates=8b949e" width="95%" alt="GitHub Streak">
+  </a>
+  
+  <br /><br />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaimeCabary&bg_color=0d1117&color=FF4500&line=FF4500&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="100%">
+</div>
+
+<br />
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+  <span style="color: #FF4500;">DEPLOYED ARCHIVES</span>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy. gif" width="40">
+</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center" style="border: 2px solid #FF4500; border-radius: 15px; padding: 15px; background:  linear-gradient(135deg, #0d1117 0%, #161b22 100%); box-shadow: 0 8px 20px rgba(255, 69, 0, 0.4);">
+        <a href="https://github.com/JaimeCabary/Uruella-AI">
+          <img src="https://azuwikeshalom.vercel. app/uruella. png" alt="Uruella AI" width="100%" style="border-radius: 10px; border: 1px solid #30363d;">
+        </a>
+        <br /><br />
+        <h3 style="color: #FF4500; margin:  10px 0;">🤖 Uruella AI</h3>
+        <p style="color: #8b949e; font-size:  13px; margin: 5px 0;">
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+          <img src="https://img.shields.io/badge/AI-FF4500?style=flat-square&logo=tensorflow&logoColor=white" alt="AI">
+        </p>
+        <p style="color: #c9d1d9; font-size: 14px; line-height: 1.6;">
+          Offline-First AI Assistant with advanced NLP capabilities
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center" style="border: 2px solid #FF4500; border-radius: 15px; padding: 15px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); box-shadow: 0 8px 20px rgba(255, 69, 0, 0.4);">
+        <a href="https://github.com/JaimeCabary">
+          <img src="https://azuwikeshalom.vercel.app/totum-revamp.png" alt="Totum" width="100%" style="border-radius: 10px; border:  1px solid #30363d;">
+        </a>
+        <br /><br />
+        <h3 style="color:  #FF4500; margin: 10px 0;">⚡ Totum</h3>
+        <p style="color: #8b949e; font-size: 13px; margin: 5px 0;">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node. js&logoColor=white" alt="Node.js">
+        </p>
+        <p style="color: #c9d1d9; font-size: 14px; line-height: 1.6;">
+          Next Generation Software Solution Platform
+        </p>
+      </div>
+    </td>
+  </tr>
+  
+  <tr><td colspan="2"><br /></td></tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 12px; background-color: #161b22; transition: all 0.3s ease;">
+        <a href="https://zeptaherself.netlify. app/#projects">
+          <img src="https://zeptaherself.netlify. app/janessaa.png" width="100%" style="border-radius: 8px;">
+        </a>
+        <br /><br />
+        <h4 style="color: #c9d1d9; margin:  8px 0;">💬 Janessa AI Chatbot</h4>
+        <p style="color: #8b949e; font-size:  12px;">Python Flask • NLP Integration • Real-time Chat</p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 12px; background-color: #161b22; transition:  all 0.3s ease;">
+        <a href="https://reigninglife.netlify.app/">
+          <img src="https://zeptaherself.netlify. app/RLS.png" width="100%" style="border-radius: 8px;">
+        </a>
+        <br /><br />
+        <h4 style="color:  #c9d1d9; margin: 8px 0;">🏫 R.L.  School System</h4>
+        <p style="color: #8b949e; font-size: 12px;">Full Stack Portal • Auth Systems • Student Management</p>
+      </div>
+    </td>
+  </tr>
+  
+  <tr><td colspan="2"><br /></td></tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center" style="border: 1px solid #30363d; border-radius: 12px; padding:  12px; background-color:  #161b22;">
+        <a href="https://unzep.netlify.app/">
+          <img src="https://zeptaherself.netlify.app/un.png" width="100%" style="border-radius: 8px;">
+        </a>
+        <br /><br />
+        <h4 style="color: #c9d1d9; margin: 8px 0;">🌍 UN Website Revamp</h4>
+        <p style="color: #8b949e; font-size: 12px;">React • FastAPI • Global Impact Initiative</p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 12px; background-color: #161b22;">
+        <a href="https://nkmedicals.netlify.app/">
+          <img src="https://zeptaherself.netlify. app/ne/Screenshot%20(1720).png" width="100%" style="border-radius: 8px;">
+        </a>
+        <br /><br />
+        <h4 style="color:  #c9d1d9; margin: 8px 0;">🏥 Lude Health Centre</h4>
+        <p style="color: #8b949e; font-size: 12px;">IEEE Sponsored • Hospital Management System</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  <span style="color: #FF4500;">TESTIMONIALS</span>
+</h2>
+
+<div align="center">
+  <table width="95%">
+    <tr>
+      <td width="50%" valign="top" style="padding: 15px;">
+        <div style="background: linear-gradient(135deg, #161b22 0%, #0d1117 100%); border-left: 5px solid #FF4500; border-radius: 10px; padding: 20px; box-shadow: 0 4px 15px rgba(255, 69, 0, 0.3);">
+          <p style="color: #c9d1d9; font-style: italic; font-size: 14px; line-height: 1.7;">
+            "Shalom delivered an exceptional website that exceeded all expectations.  Her technical skills combined with creative design sense made our project a huge success."
+          </p>
+          <p style="color: #FF4500; font-size: 13px; margin-top: 15px; font-weight: bold;">
+            — Dr. Sarah Echefu
+            <br />
+            <span style="color: #8b949e; font-size: 11px; font-weight: normal;">CEO, TechVision Solutions</span>
+          </p>
+        </div>
+      </td>
+      <td width="50%" valign="top" style="padding: 15px;">
+        <div style="background: linear-gradient(135deg, #161b22 0%, #0d1117 100%); border-left: 5px solid #FF4500; border-radius: 10px; padding: 20px; box-shadow: 0 4px 15px rgba(255, 69, 0, 0.3);">
+          <p style="color: #c9d1d9; font-style: italic; font-size: 14px; line-height: 1.7;">
+            "She built our business management app with incredible attention to detail and user experience.  Highly professional and innovative!"
+          </p>
+          <p style="color: #FF4500; font-size: 13px; margin-top: 15px; font-weight: bold;">
+            — Emmanuel Stanley
+            <br />
+            <span style="color: #8b949e; font-size: 11px; font-weight: normal;">Director, Digital Dynamics</span>
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="50">
+  <span style="color: #FF4500;">LATEST ACTIVITY</span>
+</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JaimeCabary&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF4500&text_color=c9d1d9&layout=compact" width="70%" alt="WakaTime Stats">
+</div>
+
+<br />
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+  <span style="color: #FF4500;">GLOBAL CONNECTIONS</span>
+</h2>
+
+<div align="center">
+  <img src="https://s01.flagcounter.com/countxl/JaimeCabary/bg_0D1117/txt_FF4500/border_0D1117/columns_8/maxflags_16/viewers_0/labels_0/pageviews_1/flags_0/" alt="Flag Counter" border="0">
+</div>
+
+<br />
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
+  <span style="color: #FF4500;">ALLIANCE MEMBERS</span>
+</h2>
+
+<div align="center">
+  <a href="https://github.com/JaimeCabary/Uruella-AI/stargazers">
+    <img src="https://reporoster.com/stars/dark/JaimeCabary/Uruella-AI" alt="Stargazers" width="80%">
+  </a>
+  <br /><br />
+  <a href="https://github.com/JaimeCabary/Uruella-AI/network/members">
+    <img src="https://reporoster.com/forks/dark/JaimeCabary/Uruella-AI" alt="Forkers" width="80%">
+  </a>
+</div>
+
+<br />
+
+---
+
+<div align="center">
+  <h2 style="color: #FF4500;">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+    Let's Connect and Build Something Amazing! 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  </h2>
+  
+  <p style="font-size: 16px; color: #c9d1d9;">
+    💼 Open for collaborations and innovative projects<br />
+    📧 Email: <a href="mailto:shazzyazuwike@gmail.com" style="color: #FF4500;">shazzyazuwike@gmail.com</a><br />
+    🌐 Portfolio: <a href="https://azuwikeshalom.vercel. app/" style="color: #FF4500;">azuwikeshalom.vercel.app</a>
+  </p>
+  
+  <br />
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,24&height=150&section=footer&text=Let's%20Build%20The%20Future%20Together%20🚀&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JaimeCabary&label=Profile%20Views&color=FF4500&style=flat-square" alt="Profile views">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel. app/api?type=horizontal&theme=radical&border=true&quote=Code%20is%20like%20humor. %20When%20you%20have%20to%20explain%20it,%20it's%20bad. &author=Cory%20House" width="80%" alt="Quote">
+</div>
+
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=220&section=header&text=SHALOM%20CHIDI-AZUWIKE&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ZeptaHacker%20%7C%20Architect%20of%20Digital%20Realities&descFontSize=20&descAlignY=60&descAlign=50" alt="Shalom Header" width="100%" />
 
   <div style="position: relative; margin-top: -65px;">
@@ -431,4 +836,4 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=120&section=footer&text=LET'S%20BUILD%20THE%20FUTURE&fontSize=25&fontColor=ffffff&animation=fadeIn" width="100%">
-</div> -->
+</div> --> -->
