@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api? type=waving&color=gradient&customColorList=12,2,20,24&height=250&section=header&text=SHALOM%20CHIDI-AZUWIKE&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ZeptaHacker%20•%20AI%20Architect%20•%20Full%20Stack%20Innovator&descAlignY=52&descSize=18" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=220&section=header&text=SHALOM%20CHIDI-AZUWIKE&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ZeptaHacker%20%7C%20Architect%20of%20Digital%20Realities&descFontSize=20&descAlignY=60&descAlign=50" alt="Shalom Header" width="100%" />
 
-  <div style="position: relative; margin-top: -80px;">
-    <a href="https://azuwikeshalom.vercel. app/">
-      <img src="https://zeptaherself.netlify. app/ashii/1000429235-removebg-preview.png" alt="Shalom Profile" width="180" style="border-radius: 50%; border: 5px solid #FF4500; box-shadow: 0 0 40px rgba(255, 69, 0, 0.6); transition: transform 0.3s ease;">
+  <div style="position: relative; margin-top: -65px;">
+    <a href="https://azuwikeshalom.vercel.app/">
+      <img src="https://zeptaherself.netlify.app/ashii/1000429235-removebg-preview.png" alt="Shalom Profile" width="170" style="border-radius: 50%; border: 4px solid #FF4500; box-shadow: 0 0 30px rgba(255, 69, 0, 0.8); background-color: #0d1117; padding: 5px;">
     </a>
   </div>
 </div>
@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab. com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=700&height=60&lines=System+Status%3A+ONLINE+%E2%9C%85;Building+Uruella+AI+%26+Totum+%F0%9F%9A%80;MERN+Stack+%7C+Python+%7C+AI%2FML+Expert;Transforming+Ideas+into+Reality+%F0%9F%92%A1;Open+to+Collaborations+%F0%9F%A4%9D" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&pause=1000&color=FF4500&center=true&vCenter=true&width=650&lines=System+Status:+ONLINE;Building+Uruella+AI+%26+Totum;Microsoft+%26+Samsung+Ambassador;Stack:+Python+%7C+Flutter+%7C+Solana" alt="Typing SVG" />
   </a>
 </div>
 
