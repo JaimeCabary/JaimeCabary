@@ -528,7 +528,7 @@
   <tr>
     <td width="50%" valign="top" style="padding: 10px;">
       <div align="center" style="border: 1px solid #FF4500; border-radius: 12px; padding: 10px; background-color: #161b22; box-shadow: 0 4px 15px rgba(255, 69, 0, 0.3);">
-        <a href="https://github.com/JaimeCabary"><img src="https://azuwikeshalom.vercel.app/uruella.png" alt="Uruella AI" width="100%" style="border-radius: 8px; border: 1px solid #30363d; min-height: 150px; background-color: #000; object-fit: cover;"></a>
+        <a href="https://github.com/JaimeCabary"><img src="https://azuwikeshalom.vercel.app/images/full-screen/uruella.png" alt="Uruella AI" width="100%" style="border-radius: 8px; border: 1px solid #30363d; min-height: 150px; background-color: #000; object-fit: cover;"></a>
         <br><br>
         <b style="color: #FF4500; font-size: 16px;">Uruella AI (Latest)</b>
         <br>
