@@ -481,7 +481,7 @@
 
 <br />
 
-<h2 align="center">
+<!-- <h2 align="center">
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
   <span style="color: #FF4500;">ALLIANCE MEMBERS</span>
 </h2>
@@ -496,7 +496,7 @@
   </a>
 </div>
 
-<br />
+<br /> -->
 
 ---
 
