@@ -277,8 +277,8 @@
     </td>
     <td width="50%" valign="top">
       <div align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 12px; background-color: #161b22;">
-        <a href="https://uruwlla.vercel.app/">
-          <img src="https://shacodone.vercel.app/slides/slide-1.jpg" width="100%" style="border-radius: 8px;">
+        <a href="https://uruella.vercel.app/">
+          <img src="https://shacodone.vercel.app/images/full-screen/uruella.png" width="100%" style="border-radius: 8px;">
         </a>
         <br /><br />
         <h4 style="color:  #c9d1d9; margin: 8px 0;"> Uruella AI</h4>
