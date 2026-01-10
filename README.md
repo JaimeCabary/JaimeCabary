@@ -525,7 +525,8 @@
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel. app/api?type=horizontal&theme=radical&border=true&quote=Code%20is%20like%20humor. %20When%20you%20have%20to%20explain%20it,%20it's%20bad. &author=Cory%20House" width="80%" alt="Quote">
+  <!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 </div>
 
 <!-- <div align="center">
