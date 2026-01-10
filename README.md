@@ -193,104 +193,6 @@
 
 <br />
 
----
-
-<!-- <h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-  <span style="color: #FF4500;">DEPLOYED ARCHIVES</span>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy. gif" width="40">
-</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center" style="border: 2px solid #FF4500; border-radius: 15px; padding: 15px; background:  linear-gradient(135deg, #0d1117 0%, #161b22 100%); box-shadow: 0 8px 20px rgba(255, 69, 0, 0.4);">
-        <a href="https://github.com/JaimeCabary/Uruella-AI">
-          <img src="https://shacodone.vercel.app/images/full-screen/uruella.png" alt="Uruella AI" width="100%" style="border-radius: 10px; border: 1px solid #30363d;">
-        </a>
-        <br /><br />
-        <h3 style="color: #FF4500; margin:  10px 0;">🤖 Uruella AI</h3>
-        <p style="color: #8b949e; font-size:  13px; margin: 5px 0;">
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
-          <img src="https://img.shields.io/badge/AI-FF4500?style=flat-square&logo=tensorflow&logoColor=white" alt="AI">
-        </p>
-        <p style="color: #c9d1d9; font-size: 14px; line-height: 1.6;">
-          Offline-First AI Assistant with advanced NLP capabilities
-        </p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center" style="border: 2px solid #FF4500; border-radius: 15px; padding: 15px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); box-shadow: 0 8px 20px rgba(255, 69, 0, 0.4);">
-        <a href="https://github.com/JaimeCabary">
-          <img src="https://azuwikeshalom.vercel.app/totum-revamp.png" alt="Totum" width="100%" style="border-radius: 10px; border:  1px solid #30363d;">
-        </a>
-        <br /><br />
-        <h3 style="color:  #FF4500; margin: 10px 0;">⚡ Totum</h3>
-        <p style="color: #8b949e; font-size: 13px; margin: 5px 0;">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node. js&logoColor=white" alt="Node.js">
-        </p>
-        <p style="color: #c9d1d9; font-size: 14px; line-height: 1.6;">
-          Next Generation Software Solution Platform
-        </p>
-      </div>
-    </td>
-  </tr>
-  
-  <tr><td colspan="2"><br /></td></tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 12px; background-color: #161b22; transition: all 0.3s ease;">
-        <a href="https://zeptaherself.netlify. app/#projects">
-          <img src="https://zeptaherself.netlify. app/janessaa.png" width="100%" style="border-radius: 8px;">
-        </a>
-        <br /><br />
-        <h4 style="color: #c9d1d9; margin:  8px 0;">💬 Janessa AI Chatbot</h4>
-        <p style="color: #8b949e; font-size:  12px;">Python Flask • NLP Integration • Real-time Chat</p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 12px; background-color: #161b22; transition:  all 0.3s ease;">
-        <a href="https://reigninglife.netlify.app/">
-          <img src="https://zeptaherself.netlify. app/RLS.png" width="100%" style="border-radius: 8px;">
-        </a>
-        <br /><br />
-        <h4 style="color:  #c9d1d9; margin: 8px 0;">🏫 R.L.  School System</h4>
-        <p style="color: #8b949e; font-size: 12px;">Full Stack Portal • Auth Systems • Student Management</p>
-      </div>
-    </td>
-  </tr>
-  
-  <tr><td colspan="2"><br /></td></tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center" style="border: 1px solid #30363d; border-radius: 12px; padding:  12px; background-color:  #161b22;">
-        <a href="https://unzep.netlify.app/">
-          <img src="https://zeptaherself.netlify.app/un.png" width="100%" style="border-radius: 8px;">
-        </a>
-        <br /><br />
-        <h4 style="color: #c9d1d9; margin: 8px 0;">🌍 UN Website Revamp</h4>
-        <p style="color: #8b949e; font-size: 12px;">React • FastAPI • Global Impact Initiative</p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 12px; background-color: #161b22;">
-        <a href="https://uruella.vercel.app/">
-          <img src="https://shacodone.vercel.app/images/full-screen/uruella.png" width="100%" style="border-radius: 8px;">
-        </a>
-        <br /><br />
-        <h4 style="color:  #c9d1d9; margin: 8px 0;"> Uruella AI</h4>
-        <p style="color: #8b949e; font-size: 12px;">Offline AI</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br /> -->
-
-
 <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
   <span style="color: #FF4500;">DEPLOYED ARCHIVES</span>
@@ -463,12 +365,30 @@
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JaimeCabary&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF4500&text_color=c9d1d9&layout=compact" width="70%" alt="WakaTime Stats">
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 </div>
 
 <br />
 
 ---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40">
+  <span style="color: #FF4500;">LATEST BLOG POSTS</span>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40">
+</h2>
+
+<div align="center">
+  
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+</div>
+
+<br />
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
@@ -481,24 +401,6 @@
 
 <br />
 
-<!-- <h2 align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
-  <span style="color: #FF4500;">ALLIANCE MEMBERS</span>
-</h2>
-
-<div align="center">
-  <a href="https://github.com/JaimeCabary/Uruella-AI/stargazers">
-    <img src="https://reporoster.com/stars/dark/JaimeCabary/Uruella-AI" alt="Stargazers" width="80%">
-  </a>
-  <br /><br />
-  <a href="https://github.com/JaimeCabary/Uruella-AI/network/members">
-    <img src="https://reporoster.com/forks/dark/JaimeCabary/Uruella-AI" alt="Forkers" width="80%">
-  </a>
-</div>
-
-<br /> -->
-
----
 
 <div align="center">
   <h2 style="color: #FF4500;">
@@ -521,6 +423,26 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=JaimeCabary&label=Profile%20Views&color=FF4500&style=flat-square" alt="Profile views">
 </div>
+
+
+
+<!-- <h2 align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
+  <span style="color: #FF4500;">ALLIANCE MEMBERS</span>
+</h2>
+
+<div align="center">
+  <a href="https://github.com/JaimeCabary/Uruella-AI/stargazers">
+    <img src="https://reporoster.com/stars/dark/JaimeCabary/Uruella-AI" alt="Stargazers" width="80%">
+  </a>
+  <br /><br />
+  <a href="https://github.com/JaimeCabary/Uruella-AI/network/members">
+    <img src="https://reporoster.com/forks/dark/JaimeCabary/Uruella-AI" alt="Forkers" width="80%">
+  </a>
+</div>
+
+<br /> -->
+
 
 <!-- <div align="center"> -->
 
