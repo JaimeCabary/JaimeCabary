@@ -522,10 +522,9 @@
   <img src="https://komarev.com/ghpvc/?username=JaimeCabary&label=Profile%20Views&color=FF4500&style=flat-square" alt="Profile views">
 </div>
 
----
-
 <div align="center">
-  <!-- BLOG-POST-LIST:START -->
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST: START -->
 <!-- BLOG-POST-LIST:END -->
 </div>
 
@@ -943,7 +942,7 @@
       Organized humanitarian tech initiatives.
     </li>
   </ul>
-</div> -->
+</div> 
 
 <!-- <br /> -->
 
@@ -962,4 +961,4 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=120&section=footer&text=LET'S%20BUILD%20THE%20FUTURE&fontSize=25&fontColor=ffffff&animation=fadeIn" width="100%">
-</div> --> -->
+</div> -->
