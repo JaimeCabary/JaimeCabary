@@ -316,8 +316,6 @@
         </p>
       </div>
     </td>
-
-    <!-- Uruella AI -->
     <td width="50%" valign="top">
       <div align="center" style="border:2px solid #FF4500;border-radius:15px;padding:15px;background:linear-gradient(135deg,#0d1117 0%,#161b22 100%);box-shadow:0 8px 20px rgba(255,69,0,.4);">
         <a href="https://uruella.vercel.app">
@@ -352,8 +350,6 @@
         </p>
       </div>
     </td>
-
-    <!-- MarsoVerse -->
     <td width="50%" valign="top">
       <div align="center" style="border:1px solid #30363d;border-radius:12px;padding:12px;background:#161b22;">
         <a href="#">
@@ -384,8 +380,6 @@
         </p>
       </div>
     </td>
-
-    <!-- G-Mutliepod -->
     <td width="50%" valign="top">
       <div align="center" style="border:1px solid #30363d;border-radius:12px;padding:12px;background:#161b22;">
         <a href="https://gmutliepod.vercel.app">
