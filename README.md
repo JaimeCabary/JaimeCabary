@@ -522,11 +522,11 @@
   <img src="https://komarev.com/ghpvc/?username=JaimeCabary&label=Profile%20Views&color=FF4500&style=flat-square" alt="Profile views">
 </div>
 
-<div align="center">
+<!-- <div align="center"> -->
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST: START -->
 <!-- BLOG-POST-LIST:END -->
-</div>
+<!-- </div> -->
 
 <!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=220&section=header&text=SHALOM%20CHIDI-AZUWIKE&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ZeptaHacker%20%7C%20Architect%20of%20Digital%20Realities&descFontSize=20&descAlignY=60&descAlign=50" alt="Shalom Header" width="100%" />
