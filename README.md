@@ -55,7 +55,7 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/JaimeCabary?label=Followers&style=flat-square&color=FF4500&logo=github" alt="GitHub Followers" />
   &nbsp;&nbsp;
-  <a href="https://zeptaherself.netlify. app/My%20Standard%20Resume. pdf">
+  <a href="https://zeptaherself.netlify.app/My%20Standard%20Resume.pdf">
     <img src="https://img.shields.io/badge/📄_DOWNLOAD_RESUME-FF4500?style=flat-square&labelColor=0d1117" alt="Resume">
   </a>
 </div>
