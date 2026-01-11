@@ -132,7 +132,7 @@
 
 ---
 
-<h2 align="center">
+<!-- <h2 align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
   <span style="color:  #FF4500;">HALL OF FAME</span>
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
@@ -142,8 +142,17 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=JaimeCabary&theme=radical&column=4&row=2&no-frame=false&no-bg=false&margin-w=15&margin-h=15" width="90%" />
   </a>
+</div> -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
+  <span style="color: #FF4500;">HALL OF FAME</span>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
+</h2>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=JaimeCabary&theme=radical&column=4&row=2&no-frame=false&no-bg=false&margin-w=15&margin-h=15" width="90%" alt="trophy" />
+  </a>
 </div>
-
 <br />
 
 <div align="center">
