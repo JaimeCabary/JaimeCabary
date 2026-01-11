@@ -110,26 +110,33 @@
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
-  <span style="color:  #FF4500;">TECH ARSENAL</span>
+  <span style="color:#FF4500;">TECH ARSENAL</span>
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
 </h2>
 
 <div align="center">
-  <h3>⚡ Languages</h3>
-  <img src="https://skillicons.dev/icons?i=py,js,ts,dart,html,css,java,cpp&perline=8&theme=dark" />
-  
+
+  <h3>🐍 Core Language</h3>
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" />
+
+  <h3>⚡ Other Languages</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,dart,html,css,java,cpp&perline=7&theme=dark" />
+
   <h3>🚀 Frameworks & Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,tensorflow,flutter,tailwind&perline=8&theme=dark" />
-  
-  <h3>🗄️ Databases & Cloud</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,aws,vite,webpack,fastapi,prisma&perline=8&theme=dark" />
-  
+  <img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,nodejs,express,flutter,tailwind,chakra,tensorflow&perline=9&theme=dark" />
+
+  <h3>🗄️ Databases, ORMs & Backend Services</h3>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,firebase,supabase,prisma&perline=6&theme=dark" />
+
   <h3>🛠️ Tools & Platforms</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma,notion&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,linux,vscode&perline=7&theme=dark" />
+
+  <h3>⚙️ Build & Dev Tooling</h3>
+  <img src="https://skillicons.dev/icons?i=vite,webpack,turbopack&perline=5&theme=dark" />
+
 </div>
 
 <br />
-
 ---
 
 <!-- <h2 align="center">
