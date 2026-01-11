@@ -51,7 +51,7 @@
 <br />
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JaimeCabary.JaimeCabary&style=flat-square&color=FF4500" alt="Profile Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=JaimeCabary&color=FF4500&style=flat-square&v=2" alt="Profile Visitors" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/JaimeCabary?label=Followers&style=flat-square&color=FF4500&logo=github" alt="GitHub Followers" />
   &nbsp;&nbsp;
