@@ -19,4 +19,4 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           # This sets the Cyberpunk 2077 theme automatically
-          THEME: 2077
+          THEME: radical
