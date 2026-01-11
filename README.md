@@ -122,7 +122,7 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,tensorflow,flutter,tailwind&perline=8&theme=dark" />
   
   <h3>🗄️ Databases & Cloud</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,aws,gcp,redis,prisma&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,aws,vite,turbopack,fastapi,prisma&perline=8&theme=dark" />
   
   <h3>🛠️ Tools & Platforms</h3>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma,notion&perline=8&theme=dark" />
@@ -392,12 +392,10 @@ No activity tracked
 
 <div align="center">
   
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:STARTO -->
 - [Tunnelling In.](https://medium.com/@shazzyazuwike/tunnelling-in-bcc1c8c3ba0b?source=rss-38ac1d46254f------2)
-- [’  ,   .](https://medium.com/@shazzyazuwike/-0b071ef0d3fa?source=rss-38ac1d46254f------2)
-- [Apex, Interrupted](https://medium.com/@shazzyazuwike/apex-interrupted-f41b043515c1?source=rss-38ac1d46254f------2)
-- [The Cost of Raising Entitled Boys](https://medium.com/@shazzyazuwike/the-cost-of-raising-entitled-boys-5c20236c65de?source=rss-38ac1d46254f------2)
-- [Let Me Be Me](https://medium.com/@shazzyazuwike/let-me-be-me-18722c8e4c38?source=rss-38ac1d46254f------2)
+- [’Don't Loose Yourself.](https://medium.com/@shazzyazuwike/-0b071ef0d3fa?source=rss-38ac1d46254f------2)
+
 <!-- BLOG-POST-LIST:END -->
 
 </div>
