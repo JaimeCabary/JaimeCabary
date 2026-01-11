@@ -122,7 +122,7 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,tensorflow,flutter,tailwind&perline=8&theme=dark" />
   
   <h3>🗄️ Databases & Cloud</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,aws,vite,turbopack,fastapi,prisma&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,aws,vite,webpack,fastapi,prisma&perline=8&theme=dark" />
   
   <h3>🛠️ Tools & Platforms</h3>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma,notion&perline=8&theme=dark" />
