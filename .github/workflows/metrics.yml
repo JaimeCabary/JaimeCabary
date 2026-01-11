@@ -1,0 +1,115 @@
+name: GitHub Metrics Generator
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Daily at midnight UTC
+  workflow_dispatch:  # Manual trigger
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate-metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Main Metrics Generator - Creates comprehensive stats SVG
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ github.repository_owner }}
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Africa/Lagos
+          config_output: default
+          
+          # Languages Plugin
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_colors: github
+          
+          # Recent Activity
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          
+          # Achievements
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+          
+          # Notable Contributions
+          plugin_notable: yes
+          plugin_notable_repositories: yes
+          
+          # Habits/Commit Patterns
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          
+          # ISO Calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+      # Alternative: Simpler Stats Generator
+      - name: Generate Simple Stats
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-simple.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ github.repository_owner }}
+          template: classic
+          base: header, repositories
+          plugin_languages: yes
+          plugin_languages_limit: 4
+          config_timezone: Africa/Lagos
+
+      # Generate Language Stats Image
+      - name: Generate Language Stats
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ github.repository_owner }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage, lines
+          plugin_languages_limit: 10
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_colors: rainbow
+          plugin_languages_threshold: 2%
+
+      # Generate Activity Graph
+      - name: Generate Activity Graph  
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-activity.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ github.repository_owner }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_days: 30
+          plugin_habits_facts: yes
+          plugin_habits_from: 500
+          config_timezone: Africa/Lagos
+
+      # Commit all generated files
+      - name: Commit Generated Metrics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add metrics*.svg github-metrics*.svg
+          git diff --staged --quiet || git commit -m "📊 Update metrics - $(date +'%Y-%m-%d')"
+          git push || echo "No changes to commit"
