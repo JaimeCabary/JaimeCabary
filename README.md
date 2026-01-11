@@ -507,9 +507,9 @@ No activity tracked
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,24&height=150&section=footer&text=Let's%20Build%20The%20Future%20Together%20🚀&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%">
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=JaimeCabary&label=Profile%20Views&color=FF4500&style=flat-square" alt="Profile views">
-</div>
+</div> -->
 
 
 
