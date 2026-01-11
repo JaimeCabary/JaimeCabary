@@ -250,19 +250,19 @@
 </div> -->
 
 <!-- SYSTEM METRICS SECTION -->
-<h2 align="center">
+<!-- <h2 align="center">
   <img src="https://media2.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35">
   <span style="color: #FF4500;">SYSTEM METRICS</span>
   <img src="https://media2.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35">
-</h2>
+</h2> -->
 
 <!-- Option 1: Use Locally Generated Metrics (Most Reliable) -->
-<div align="center">
+<!-- <div align="center">
   <img src="./github-metrics.svg" width="100%" alt="Comprehensive GitHub Metrics">
   <br /><br />
   <img src="./metrics-languages.svg" width="48%" alt="Language Stats">
   <img src="./metrics-activity.svg" width="48%" alt="Activity Patterns">
-</div>
+</div> -->
 
 <!-- <br /> -->
 
