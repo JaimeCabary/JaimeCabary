@@ -149,8 +149,16 @@
 </div>
 <br />
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details? username=JaimeCabary&theme=radical" width="100%">
+  <br /><br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JaimeCabary&theme=radical" width="32%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JaimeCabary&theme=radical&utcOffset=1" width="32%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaimeCabary&theme=radical" width="32%">
+</div> -->
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaimeCabary&theme=radical" width="100%">
   <br /><br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JaimeCabary&theme=radical" width="32%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JaimeCabary&theme=radical&utcOffset=1" width="32%">
