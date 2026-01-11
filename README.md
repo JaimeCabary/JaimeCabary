@@ -157,12 +157,20 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaimeCabary&theme=radical" width="32%">
 </div> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaimeCabary&theme=radical" width="100%">
   <br /><br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JaimeCabary&theme=radical" width="32%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JaimeCabary&theme=radical&utcOffset=1" width="32%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaimeCabary&theme=radical" width="32%">
+</div> -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JaimeCabary/JaimeCabary/main/profile-summary-card-output/2077/0-profile-details.svg" width="100%" alt="Profile Details">
+  <br /><br />
+  <img src="https://raw.githubusercontent.com/JaimeCabary/JaimeCabary/main/profile-summary-card-output/2077/3-stats.svg" width="32%" alt="Stats">
+  <img src="https://raw.githubusercontent.com/JaimeCabary/JaimeCabary/main/profile-summary-card-output/2077/2-most-commit-language.svg" width="32%" alt="Most Commit Language">
+  <img src="https://raw.githubusercontent.com/JaimeCabary/JaimeCabary/main/profile-summary-card-output/2077/1-repos-per-language.svg" width="32%" alt="Repos Per Language">
 </div>
 
 <br />
