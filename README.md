@@ -20,11 +20,11 @@
 
 <div align="center">
   <p style="font-size: 1.2em; color: #c9d1d9; max-width: 800px; line-height: 1.8; margin: 0 auto;">
-    I build <b>immersive applications</b> that bridge the gap between <b>human creativity</b> and <b>machine intelligence</b>. 
-    <br>Specializing in <b>MERN Stack, Python, Flutter, and AI/ML</b>. 
-    <br><br>
-    <b>🚀 Founder: </b> Uruella AI & KSU Ecosystem &nbsp;|&nbsp; <b>⚡ Ambassador:</b> Samsung & Microsoft Learn
-    <br><b>🎯 Mission:</b> Empowering Africa through Technology
+      I create apps that bring ideas to life, blending creativity with smart technology. 
+      <br>I work with <b>React, Node.js, Python, Flutter, and AI</b> to build things that actually matter.
+      <br><br>
+      <b>🚀 Building:</b> Uruella AI & KSU Ecosystem &nbsp;|&nbsp; <b>⚡ Repping:</b> Samsung & Microsoft Learn
+      <br><b>🎯 My Goal:</b> Empowering Africa through Technology
   </p>
 
   <br />
