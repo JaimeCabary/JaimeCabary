@@ -123,7 +123,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,dart,html,css,java,cpp&perline=7&theme=dark" />
 
   <h3>🚀 Frameworks & Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,nodejs,express,flutter,tailwind,chakra,tensorflow&perline=9&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,nodejs,express,flutter,tailwind,chakraui,tensorflow&perline=9&theme=dark" />
 
   <h3>🗄️ Databases, ORMs & Backend Services</h3>
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,firebase,supabase,prisma&perline=6&theme=dark" />
@@ -137,7 +137,6 @@
 </div>
 
 <br />
----
 
 <!-- <h2 align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
