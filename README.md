@@ -227,7 +227,7 @@
         <h3 style="color:#FF4500;margin:10px 0;">🤖 Uruella AI</h3>
         <p style="color:#8b949e;font-size:13px;">
           <img src="https://img.shields.io/badge/Offline-AI-6B8E23?style=flat-square">
-          <img src="https://img.shields.io/badge/LLAMA-Model-black?style=flat-square">
+          <img src="https://img.shields.io/badge/AI-Model-black?style=flat-square">
         </p>
         <p style="color:#c9d1d9;font-size:14px;line-height:1.6;">
           Offline-first intelligence for zero-latency environments
