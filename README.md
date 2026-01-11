@@ -394,8 +394,10 @@ No activity tracked
   
 <!-- BLOG-POST-LIST:STARTO -->
 - [Tunnelling In.](https://medium.com/@shazzyazuwike/tunnelling-in-bcc1c8c3ba0b?source=rss-38ac1d46254f------2)
-- [’Don't Loose Yourself.](https://medium.com/@shazzyazuwike/-0b071ef0d3fa?source=rss-38ac1d46254f------2)
-
+- [’  ,   .](https://medium.com/@shazzyazuwike/-0b071ef0d3fa?source=rss-38ac1d46254f------2)
+- [The Cost of Raising Entitled Boys](https://medium.com/@shazzyazuwike/the-cost-of-raising-entitled-boys-5c20236c65de?source=rss-38ac1d46254f------2)
+- [Let Me Be Me](https://medium.com/@shazzyazuwike/let-me-be-me-18722c8e4c38?source=rss-38ac1d46254f------2)
+- [Mark of the Singularity: The Genesis of SudoCat](https://medium.com/@shazzyazuwike/mark-of-the-singularity-the-genesis-of-sudocat-553a8bd33ccb?source=rss-38ac1d46254f------2)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
