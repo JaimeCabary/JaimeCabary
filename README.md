@@ -204,7 +204,7 @@
   <a href="https://github.com/JaimeCabary">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaimeCabary&theme=radical&hide_border=true&background=0d1117&ring=FF4500&fire=FF4500&currStreakLabel=FF4500&sideLabels=c9d1d9&dates=8b949e" width="95%" alt="GitHub Streak">
   </a> -->
-  <h2 align="center">
+ <h2 align="center">
   <img src="https://media2.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35">
   <span style="color: #FF4500;">SYSTEM METRICS</span>
   <img src="https://media2.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35">
@@ -214,12 +214,12 @@
     <tr>
       <td width="50%" align="center" valign="top">
         <a href="https://github.com/JaimeCabary">
-          <img src="https://github-readme-stats.vercel.app/api?username=JaimeCabary&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF4500&icon_color=FF4500&text_color=c9d1d9&count_private=true&include_all_commits=true&custom_title=GitHub%20Statistics" width="100%" alt="GitHub Stats">
+          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JaimeCabary&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF4500&icon_color=FF4500&text_color=c9d1d9&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats">
         </a>
       </td>
       <td width="50%" align="center" valign="top">
         <a href="https://github.com/JaimeCabary">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeCabary&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF4500&text_color=c9d1d9&langs_count=10&custom_title=Most%20Used%20Languages" width="100%" alt="Top Languages">
+          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JaimeCabary&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF4500&text_color=c9d1d9&langs_count=10" width="100%" alt="Top Languages">
         </a>
       </td>
     </tr>
@@ -228,7 +228,7 @@
   <br />
   
   <a href="https://github.com/JaimeCabary">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaimeCabary&theme=radical&hide_border=true&background=0d1117&ring=FF4500&fire=FF4500&currStreakLabel=FF4500&sideLabels=c9d1d9&dates=8b949e" width="95%" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com/?user=JaimeCabary&theme=radical&hide_border=true&background=0d1117&ring=FF4500&fire=FF4500&currStreakLabel=FF4500" width="95%" alt="GitHub Streak">
   </a>
 
   <br /><br />
