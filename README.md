@@ -240,14 +240,31 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaimeCabary&bg_color=0d1117&color=FF4500&line=FF4500&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="100%">
  </div> -->
 
-<h2 align="center">
+<!-- <h2 align="center">
   <img src="https://media2.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif? cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35">
   <span style="color: #FF4500;">SYSTEM METRICS</span>
   <img src="https://media2.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy. gif" width="35">
 </h2>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=JaimeCabary&theme=radical&hide_border=true&background=0d1117&ring=FF4500&fire=FF4500&currStreakLabel=FF4500" width="70%" alt="GitHub Streak">
+</div> -->
+
+<!-- SYSTEM METRICS SECTION -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35">
+  <span style="color: #FF4500;">SYSTEM METRICS</span>
+  <img src="https://media2.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35">
+</h2>
+
+<!-- Option 1: Use Locally Generated Metrics (Most Reliable) -->
+<div align="center">
+  <img src="./github-metrics.svg" width="100%" alt="Comprehensive GitHub Metrics">
+  <br /><br />
+  <img src="./metrics-languages.svg" width="48%" alt="Language Stats">
+  <img src="./metrics-activity.svg" width="48%" alt="Activity Patterns">
 </div>
+
+<!-- <br /> -->
 
 <br />
 
