@@ -445,15 +445,12 @@
   <span style="color: #FF4500;">LATEST ACTIVITY</span>
 </h2>
 
-<div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/wakatime?username=JaimeCabary&layout=compact](https://github-readme-stats.vercel.app/api/wakatime?username=shazzyazuwike&layout=compact)" />
-</div>
-<div align="center">
+
   
 <!--START_SECTION:waka-->
 
 ```python
-From: 09 January 2026 - To: 12 January 2026
+From: 09 January 2025 - To: 12 January 2027
 
 Total Time: 0 secs
 
