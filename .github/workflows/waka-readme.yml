@@ -1,24 +1,52 @@
-name: Waka Readme
+name: Waka Readme (Visual)
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs at midnight
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Update Readme with WakaTime Stats
+    name: Update Readme with Visual Dashboard
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Add this line
+      contents: write
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          CODE_LANG: python
-          TIME_RANGE: all_time
-          LANG_COUNT: 10
-          SHOW_TIME: true
-          SHOW_TOTAL: true
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Theme options: dark, radical, merko, gruvbox, tokyonight
+          THEME: dark
+          SHOW_ICONS: true
+          # This handles the centering automatically
+          COMMIT_MESSAGE: "chore: update waka-stats dashboard 🚀"
+          
+          # name: Waka Readme
+
+# on:
+#   schedule:
+#     - cron: '0 0 * * *' # Runs at midnight
+#   workflow_dispatch:
+
+# jobs:
+#   update-readme:
+#     name: Update Readme with WakaTime Stats
+#     runs-on: ubuntu-latest
+#     permissions:
+#       contents: write  # Add this line
+#     steps:
+#       - uses: athul/waka-readme@master
+#         with:
+#           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+#           SHOW_TITLE: true
+#           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+#           CODE_LANG: python
+#           TIME_RANGE: all_time
+#           LANG_COUNT: 10
+#           SHOW_TIME: true
+#           SHOW_TOTAL: true
+
+
+
+
