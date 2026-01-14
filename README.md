@@ -23,7 +23,7 @@
       I create apps that bring ideas to life, blending creativity with smart technology. 
       <br>I work with <b>React, Node.js, Python, Flutter, and AI</b> to build things that actually matter.
       <br><br>
-      <b>🚀 Building:</b> Uruella AI & KSU Ecosystem &nbsp;|&nbsp; <b>⚡ Repping:</b> Samsung & Microsoft Learn
+      <b>🚀 Building:</b> Uruella AI & KSU Ecosystem &nbsp;|&nbsp; <b>⚡ Repping:</b> Samsung, Interswitch, GDG , Cowrywise & Uruella
       <br><b>🎯 My Goal:</b> Empowering Africa through Technology
   </p>
 
