@@ -446,11 +446,11 @@
 </h2>
 
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/wakatime?username=shazzyazuwike&layout=compact](https://github-readme-stats.vercel.app/api/wakatime?username=shazzyazuwike&layout=compact)" />
+  <img src="[https://github-readme-stats.vercel.app/api/wakatime?username=JaimeCabary&layout=compact](https://github-readme-stats.vercel.app/api/wakatime?username=shazzyazuwike&layout=compact)" />
 </div>
-<!-- <div align="center">
+<div align="center">
   
-<!--START_SECTION:waka
+<!--START_SECTION:waka-->
 
 ```python
 From: 09 January 2026 - To: 12 January 2026
@@ -460,9 +460,9 @@ Total Time: 0 secs
 No activity tracked
 ```
 
-<!--END_SECTION:waka
+<!--END_SECTION:waka-->
 
-</div> -->
+</div>
 
 <br />
 
