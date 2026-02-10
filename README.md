@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=220&section=header&text=SHALOM%20CHIDI-AZUWIKE&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ZeptaHacker%20%7C%20Architect%20of%20Digital%20Realities&descFontSize=20&descAlignY=60&descAlign=50" alt="Shalom Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=220&section=header&text=SHALOM%20CHIDI-AZUWIKE&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Heccker%20%7C%20Architect%20of%20Digital%20Realities&descFontSize=20&descAlignY=60&descAlign=50" alt="Shalom Header" width="100%" />
 
   <div style="position: relative; margin-top: -65px;">
-    <a href="https://shacodone.vercel.app/">
+    <a href="https://shalomchidiazuwike.codes/">
       <img src="https://zeptaherself.netlify.app/ashii/1000429235-removebg-preview.png" alt="Shalom Profile" width="170" style="border-radius: 50%; border: 4px solid #FF4500; box-shadow: 0 0 30px rgba(255, 69, 0, 0.8); background-color: #0d1117; padding: 5px;">
     </a>
   </div>
@@ -42,7 +42,7 @@
     <!-- <a href="https://medium.com/@shazzyazuwike">
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
     </a> -->
-    <a href="https://shacodone.vercel.app/">
+    <a href="https://shalomchidiazuwike.codes/">
       <img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=netlify&logoColor=white">
     </a>
   </p>
@@ -286,7 +286,7 @@
     <td width="50%" valign="top">
       <div align="center" style="border:2px solid #FF4500;border-radius:15px;padding:15px;background:linear-gradient(135deg,#0d1117 0%,#161b22 100%);box-shadow:0 8px 20px rgba(255,69,0,.4);">
         <a href="https://purecinema.vercel.app">
-          <img src="https://shacodone.vercel.app/images/projects/Macbook-Air-Purecinema%20(1).png" width="100%" style="border-radius:10px;border:1px solid #30363d;">
+          <img src="https://shalomchidiazuwike.codes/images/projects/Macbook-Air-Purecinema%20(1).png" width="100%" style="border-radius:10px;border:1px solid #30363d;">
         </a>
         <br><br>
         <h3 style="color:#FF4500;margin:10px 0;">🎬 Pure Cinema</h3>
@@ -302,7 +302,7 @@
     <td width="50%" valign="top">
       <div align="center" style="border:2px solid #FF4500;border-radius:15px;padding:15px;background:linear-gradient(135deg,#0d1117 0%,#161b22 100%);box-shadow:0 8px 20px rgba(255,69,0,.4);">
         <a href="https://uruella.vercel.app">
-          <img src="https://shacodone.vercel.app/images/projects/Macbook-Air-uruellaai.vercel.app.png" width="100%" style="border-radius:10px;border:1px solid #30363d;">
+          <img src="https://shalomchidiazuwike.codes/images/projects/Macbook-Air-uruellaai.vercel.app.png" width="100%" style="border-radius:10px;border:1px solid #30363d;">
         </a>
         <br><br>
         <h3 style="color:#FF4500;margin:10px 0;">🤖 Uruella AI</h3>
@@ -324,7 +324,7 @@
     <td width="50%" valign="top">
       <div align="center" style="border:1px solid #30363d;border-radius:12px;padding:12px;background:#161b22;">
         <a href="https://calculuss.vercel.app">
-          <img src="https://shacodone.vercel.app/images/projects/Macbook-Air-calculuss.vercel.app.png" width="100%" style="border-radius:8px;">
+          <img src="https://shalomchidiazuwike.codes/images/projects/Macbook-Air-calculuss.vercel.app.png" width="100%" style="border-radius:8px;">
         </a>
         <br><br>
         <h4 style="color:#c9d1d9;">➗ Calculus</h4>
@@ -336,7 +336,7 @@
     <td width="50%" valign="top">
       <div align="center" style="border:1px solid #30363d;border-radius:12px;padding:12px;background:#161b22;">
         <a href="#">
-          <img src="https://shacodone.vercel.app/images/projects/Macbook-Air-marsoverse.netlify.app%20(3).png" width="100%" style="border-radius:8px;">
+          <img src="https://shalomchidiazuwike.codes/images/projects/Macbook-Air-marsoverse.netlify.app%20(3).png" width="100%" style="border-radius:8px;">
         </a>
         <br><br>
         <h4 style="color:#c9d1d9;">🪐 MarsoVerse</h4>
@@ -354,7 +354,7 @@
     <td width="50%" valign="top">
       <div align="center" style="border:1px solid #30363d;border-radius:12px;padding:12px;background:#161b22;">
         <a href="https://new-totum.vercel.app">
-          <img src="https://shacodone.vercel.app/images/projects/Macbook-Air-new-totum.vercel.app%20(1).png" width="100%" style="border-radius:8px;">
+          <img src="https://shalomchidiazuwike.codes/images/projects/Macbook-Air-new-totum.vercel.app%20(1).png" width="100%" style="border-radius:8px;">
         </a>
         <br><br>
         <h4 style="color:#c9d1d9;">🧠 Totum OS</h4>
@@ -366,7 +366,7 @@
     <td width="50%" valign="top">
       <div align="center" style="border:1px solid #30363d;border-radius:12px;padding:12px;background:#161b22;">
         <a href="https://gmutliepod.vercel.app">
-          <img src="https://shacodone.vercel.app/images/projects/Macbook-Air-gmutliepod.vercel.app.png" width="100%" style="border-radius:8px;">
+          <img src="https://shalomchidiazuwike.codes/images/projects/Macbook-Air-gmutliepod.vercel.app.png" width="100%" style="border-radius:8px;">
         </a>
         <br><br>
         <h4 style="color:#c9d1d9;">🎧 G-Mutliepod</h4>
@@ -384,7 +384,7 @@
     <td width="50%" valign="top">
       <div align="center" style="border:1px solid #30363d;border-radius:12px;padding:12px;background:#161b22;">
         <a href="https://reigninglife.netlify.app/">
-          <img src="https://shacodone.vercel.app/images/projects/Macbook-Air-reigninglife.netlify.app.png" width="100%" style="border-radius:8px;">
+          <img src="https://shalomchidiazuwike.codes/images/projects/Macbook-Air-reigninglife.netlify.app.png" width="100%" style="border-radius:8px;">
         </a>
         <br><br>
         <h4 style="color:#c9d1d9;">🏫 Reigning Life School</h4>
@@ -505,7 +505,7 @@ No activity tracked
   <p style="font-size: 16px; color: #c9d1d9;">
     💼 Open for collaborations and innovative projects<br />
     📧 Email: <a href="mailto:shazzyazuwike@gmail.com" style="color: #FF4500;">shazzyazuwike@gmail.com</a><br />
-    🌐 Portfolio: <a href="https://shacodone.vercel. app/" style="color: #FF4500;">shacodone.vercel.app</a>
+    🌐 Portfolio: <a href="https://shacodone.vercel. app/" style="color: #FF4500;">shalomchidiazuwike.codes</a>
   </p>
   
   <br />
@@ -544,10 +544,10 @@ No activity tracked
 <!-- </div> -->
 
 <!-- <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=220&section=header&text=SHALOM%20CHIDI-AZUWIKE&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ZeptaHacker%20%7C%20Architect%20of%20Digital%20Realities&descFontSize=20&descAlignY=60&descAlign=50" alt="Shalom Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=220&section=header&text=SHALOM%20CHIDI-AZUWIKE&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Heccker%20%7C%20Architect%20of%20Digital%20Realities&descFontSize=20&descAlignY=60&descAlign=50" alt="Shalom Header" width="100%" />
 
   <div style="position: relative; margin-top: -65px;">
-    <a href="https://shacodone.vercel.app/">
+    <a href="https://shalomchidiazuwike.codes/">
       <img src="https://zeptaherself.netlify.app/ashii/1000429235-removebg-preview.png" alt="Shalom Profile" width="170" style="border-radius: 50%; border: 4px solid #FF4500; box-shadow: 0 0 30px rgba(255, 69, 0, 0.8); background-color: #0d1117; padding: 5px;">
     </a>
   </div>
@@ -573,7 +573,7 @@ No activity tracked
     <a href="https://www.linkedin.com/in/shalom-chidi-azuwike-752b47321"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://x.com/JaimeCabary"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"></a>
     <a href="https://medium.com/@shazzyazuwike"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-    <a href="https://shacodone.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=netlify&logoColor=white"></a>
+    <a href="https://shalomchidiazuwike.codes/"><img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=netlify&logoColor=white"></a>
   </p>
 </div>
 
@@ -668,7 +668,7 @@ No activity tracked
   <tr>
     <td width="50%" valign="top" style="padding: 10px;">
       <div align="center" style="border: 1px solid #FF4500; border-radius: 12px; padding: 10px; background-color: #161b22; box-shadow: 0 4px 15px rgba(255, 69, 0, 0.3);">
-        <a href="https://github.com/JaimeCabary"><img src="https://shacodone.vercel.app/images/full-screen/uruella.png" alt="Uruella AI" width="100%" style="border-radius: 8px; border: 1px solid #30363d; min-height: 150px; background-color: #000; object-fit: cover;"></a>
+        <a href="https://github.com/JaimeCabary"><img src="https://shalomchidiazuwike.codes/images/full-screen/uruella.png" alt="Uruella AI" width="100%" style="border-radius: 8px; border: 1px solid #30363d; min-height: 150px; background-color: #000; object-fit: cover;"></a>
         <br><br>
         <b style="color: #FF4500; font-size: 16px;">Uruella AI (Latest)</b>
         <br>
@@ -677,7 +677,7 @@ No activity tracked
     </td>
     <td width="50%" valign="top" style="padding: 10px;">
       <div align="center" style="border: 1px solid #FF4500; border-radius: 12px; padding: 10px; background-color: #161b22; box-shadow: 0 4px 15px rgba(255, 69, 0, 0.3);">
-        <a href="https://github.com/JaimeCabary"><img src="https://shacodone.vercel.app/totum-revamp.png" alt="Totum" width="100%" style="border-radius: 8px; border: 1px solid #30363d; min-height: 150px; background-color: #000; object-fit: cover;"></a>
+        <a href="https://github.com/JaimeCabary"><img src="https://shalomchidiazuwike.codes/totum-revamp.png" alt="Totum" width="100%" style="border-radius: 8px; border: 1px solid #30363d; min-height: 150px; background-color: #000; object-fit: cover;"></a>
         <br><br>
         <b style="color: #FF4500; font-size: 16px;">Totum (Latest)</b>
         <br>
@@ -766,7 +766,7 @@ No activity tracked
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=D42426&center=true&vCenter=true&width=650&lines=Merry+Christmas+%26+Happy+New+Year!+%F0%9F%8E%84;I+Architect+Digital+Realities;Building+Uruella+AI+%26+Totum;Microsoft+%26+Samsung+Ambassador" alt="Typing SVG" />
   </a>
   <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=D42426&height=220&section=header&text=SHALOM%20CHIDI-AZUWIKE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ZeptaHacker%20%7C%20Software%20Engineer&descFontSize=20&descAlignY=60&descAlign=50" alt="Shalom Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=D42426&height=220&section=header&text=SHALOM%20CHIDI-AZUWIKE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Heccker%20%7C%20Software%20Engineer&descFontSize=20&descAlignY=60&descAlign=50" alt="Shalom Header" width="100%" />
 
   <div style="position: relative; margin-top: -65px;">
     <img src="https://zeptaherself.netlify.app/ashii/1000429235-removebg-preview.png" alt="Shalom Profile" width="170" style="border-radius: 50%; border: 5px solid #228B22; box-shadow: 0 0 30px rgba(34, 139, 34, 0.9); background-color: #0d1117; padding: 5px;">
@@ -789,7 +789,7 @@ No activity tracked
     <a href="https://www.linkedin.com/in/shalom-chidi-azuwike-752b47321"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://x.com/JaimeCabary"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"></a>
     <a href="https://medium.com/@shazzyazuwike"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-    <a href="https://shacodone.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-D42426?style=for-the-badge&logo=netlify&logoColor=white"></a>
+    <a href="https://shalomchidiazuwike.codes/"><img src="https://img.shields.io/badge/Portfolio-D42426?style=for-the-badge&logo=netlify&logoColor=white"></a>
   </p>
 </div>
 
@@ -874,7 +874,7 @@ No activity tracked
   <tr>
     <td width="50%" valign="top" style="padding: 10px;">
       <div align="center" style="border: 1px solid #D42426; border-radius: 12px; padding: 10px; background-color: #161b22; box-shadow: 0 4px 15px rgba(212, 36, 38, 0.3);">
-        <a href="https://github.com/JaimeCabary"><img src="https://shacodone.vercel.app/uruella.png" alt="Uruella AI" width="100%" style="border-radius: 8px; border: 1px solid #30363d; min-height: 150px; background-color: #000; object-fit: cover;"></a>
+        <a href="https://github.com/JaimeCabary"><img src="https://shalomchidiazuwike.codes/uruella.png" alt="Uruella AI" width="100%" style="border-radius: 8px; border: 1px solid #30363d; min-height: 150px; background-color: #000; object-fit: cover;"></a>
         <br><br>
         <b style="color: #D42426; font-size: 16px;">Uruella AI (Latest)</b>
         <br>
@@ -883,7 +883,7 @@ No activity tracked
     </td>
     <td width="50%" valign="top" style="padding: 10px;">
       <div align="center" style="border: 1px solid #228B22; border-radius: 12px; padding: 10px; background-color: #161b22; box-shadow: 0 4px 15px rgba(34, 139, 34, 0.3);">
-        <a href="https://github.com/JaimeCabary"><img src="https://shacodone.vercel.app/totum-revamp.png" alt="Totum" width="100%" style="border-radius: 8px; border: 1px solid #30363d; min-height: 150px; background-color: #000; object-fit: cover;"></a>
+        <a href="https://github.com/JaimeCabary"><img src="https://shalomchidiazuwike.codes/totum-revamp.png" alt="Totum" width="100%" style="border-radius: 8px; border: 1px solid #30363d; min-height: 150px; background-color: #000; object-fit: cover;"></a>
         <br><br>
         <b style="color: #228B22; font-size: 16px;">Totum (Latest)</b>
         <br>
@@ -941,7 +941,7 @@ No activity tracked
   <h3 style="color: #D42426; margin-bottom: 10px;">💼 CAREER TRAJECTORY (THE NICE LIST)</h3>
   <ul style="text-align: left; color: #c9d1d9; list-style-type: square; margin: 0 auto; display: inline-block;">
     <li style="margin-bottom: 10px;">
-      <b>CEO, Kabary Software & ZeptaHacker</b> <i>(2019 - Present)</i><br>
+      <b>Founder Uruella</b> <i>(2019 - Present)</i><br>
       Leading 20+ bespoke AI & MERN solutions.
     </li>
     <li style="margin-bottom: 10px;">
