@@ -320,10 +320,10 @@
 
   <tr><td colspan="2"><br></td></tr>
 
-  <!-- Uruella AI — odd one out, centered in its own row -->
   <tr>
-    <td colspan="2" valign="top">
-      <div align="center" style="border:2px solid #FF4500;border-radius:15px;padding:15px;background:linear-gradient(135deg,#0d1117 0%,#161b22 100%);box-shadow:0 8px 20px rgba(255,69,0,.4);max-width:50%;margin:0 auto;">
+    <!-- Uruella AI (flagship) -->
+    <td width="50%" valign="top">
+      <div align="center" style="border:2px solid #FF4500;border-radius:15px;padding:15px;background:linear-gradient(135deg,#0d1117 0%,#161b22 100%);box-shadow:0 8px 20px rgba(255,69,0,.4);">
         <a href="https://uruella.vercel.app">
           <img src="https://shalomchidiazuwike.codes/images/projects/Macbook-Air-uruellaai.vercel.app.png" width="100%" style="border-radius:10px;border:1px solid #30363d;">
         </a>
@@ -335,6 +335,19 @@
         </p>
         <p style="color:#c9d1d9;font-size:14px;line-height:1.6;">
           Offline-first intelligence for zero-latency environments
+        </p>
+      </div>
+    </td>
+    <!-- G-Mutliepod -->
+    <td width="50%" valign="top">
+      <div align="center" style="border:1px solid #30363d;border-radius:12px;padding:12px;background:#161b22;">
+        <a href="https://gmutliepod.vercel.app">
+          <img src="https://shalomchidiazuwike.codes/images/projects/Macbook-Air-gmutliepod.vercel.app.png" width="100%" style="border-radius:8px;">
+        </a>
+        <br><br>
+        <h4 style="color:#c9d1d9;">🎧 G-Mutliepod</h4>
+        <p style="color:#8b949e;font-size:12px;">
+          Advanced media pod architecture
         </p>
       </div>
     </td>
@@ -387,27 +400,9 @@
         </p>
       </div>
     </td>
-    <!-- G-Mutliepod -->
+    <!-- Reigning Life -->
     <td width="50%" valign="top">
       <div align="center" style="border:1px solid #30363d;border-radius:12px;padding:12px;background:#161b22;">
-        <a href="https://gmutliepod.vercel.app">
-          <img src="https://shalomchidiazuwike.codes/images/projects/Macbook-Air-gmutliepod.vercel.app.png" width="100%" style="border-radius:8px;">
-        </a>
-        <br><br>
-        <h4 style="color:#c9d1d9;">🎧 G-Mutliepod</h4>
-        <p style="color:#8b949e;font-size:12px;">
-          Advanced media pod architecture
-        </p>
-      </div>
-    </td>
-  </tr>
-
-  <tr><td colspan="2"><br></td></tr>
-
-  <tr>
-    <!-- Reigning Life — centered in its own row -->
-    <td colspan="2" valign="top">
-      <div align="center" style="border:1px solid #30363d;border-radius:12px;padding:12px;background:#161b22;max-width:50%;margin:0 auto;">
         <a href="https://reigninglife.netlify.app/">
           <img src="https://shalomchidiazuwike.codes/images/projects/Macbook-Air-reigninglife.netlify.app.png" width="100%" style="border-radius:8px;">
         </a>
