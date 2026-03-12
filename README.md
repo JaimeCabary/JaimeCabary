@@ -372,7 +372,7 @@
     <!-- MarsoVerse -->
     <td width="50%" valign="top">
       <div align="center" style="border:1px solid #30363d;border-radius:12px;padding:12px;background:#161b22;">
-        <a href="#">
+        <a href="https://marsoverse.netlify.app">
           <img src="https://shalomchidiazuwike.codes/images/projects/Macbook-Air-marsoverse.netlify.app%20(3).png" width="100%" style="border-radius:8px;">
         </a>
         <br><br>
