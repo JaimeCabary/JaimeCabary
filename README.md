@@ -285,14 +285,14 @@
     <!-- CampUstore -->
     <td width="50%" valign="top">
       <div align="center" style="border:2px solid #FF4500;border-radius:15px;padding:15px;background:linear-gradient(135deg,#0d1117 0%,#161b22 100%);box-shadow:0 8px 20px rgba(255,69,0,.4);">
-        <a href="https://purecinema.vercel.app">
-          <img src="https://shalomchidiazuwike.codes/images/projects/Macbook-Air-Purecinema%20(1).png" width="100%" style="border-radius:10px;border:1px solid #30363d;">
+        <a href="https://campustoreholdings.vercel.app">
+          <img src="CampUstore.png" width="100%" style="border-radius:10px;border:1px solid #30363d;">
         </a>
         <br><br>
         <h3 style="color:#FF4500;margin:10px 0;">📔 CampUstore</h3>
         <p style="color:#8b949e;font-size:13px;">
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-          <img src="https://img.shields.io/badge/Streaming-E11D48?style=flat-square">
+          <img src="https://img.shields.io/badge/Marketplace-E11D48?style=flat-square">
         </p>
         <p style="color:#c9d1d9;font-size:14px;line-height:1.6;">
           The student marketplace for buying, selling, and offering services on your campus.
@@ -302,8 +302,8 @@
     <!-- Pure Cinema -->
     <td width="50%" valign="top">
       <div align="center" style="border:2px solid #FF4500;border-radius:15px;padding:15px;background:linear-gradient(135deg,#0d1117 0%,#161b22 100%);box-shadow:0 8px 20px rgba(255,69,0,.4);">
-        <a href="https://campustoreholdings.vercel.app">
-          <img src="CampUstore.pmg" width="100%" style="border-radius:10px;border:1px solid #30363d;">
+        <a href="https://purecinema.vercel.app">
+          <img src="https://shalomchidiazuwike.codes/images/projects/Macbook-Air-Purecinema%20(1).png" width="100%" style="border-radius:10px;border:1px solid #30363d;">
         </a>
         <br><br>
         <h3 style="color:#FF4500;margin:10px 0;">🎬 Pure Cinema</h3>
@@ -316,8 +316,14 @@
         </p>
       </div>
     </td>
-    <td width="50%" valign="top">
-      <div align="center" style="border:2px solid #FF4500;border-radius:15px;padding:15px;background:linear-gradient(135deg,#0d1117 0%,#161b22 100%);box-shadow:0 8px 20px rgba(255,69,0,.4);">
+  </tr>
+
+  <tr><td colspan="2"><br></td></tr>
+
+  <!-- Uruella AI — odd one out, centered in its own row -->
+  <tr>
+    <td colspan="2" valign="top">
+      <div align="center" style="border:2px solid #FF4500;border-radius:15px;padding:15px;background:linear-gradient(135deg,#0d1117 0%,#161b22 100%);box-shadow:0 8px 20px rgba(255,69,0,.4);max-width:50%;margin:0 auto;">
         <a href="https://uruella.vercel.app">
           <img src="https://shalomchidiazuwike.codes/images/projects/Macbook-Air-uruellaai.vercel.app.png" width="100%" style="border-radius:10px;border:1px solid #30363d;">
         </a>
@@ -350,6 +356,7 @@
         </p>
       </div>
     </td>
+    <!-- MarsoVerse -->
     <td width="50%" valign="top">
       <div align="center" style="border:1px solid #30363d;border-radius:12px;padding:12px;background:#161b22;">
         <a href="#">
@@ -380,6 +387,7 @@
         </p>
       </div>
     </td>
+    <!-- G-Mutliepod -->
     <td width="50%" valign="top">
       <div align="center" style="border:1px solid #30363d;border-radius:12px;padding:12px;background:#161b22;">
         <a href="https://gmutliepod.vercel.app">
@@ -397,9 +405,9 @@
   <tr><td colspan="2"><br></td></tr>
 
   <tr>
-    <!-- Reigning Life -->
-    <td width="50%" valign="top">
-      <div align="center" style="border:1px solid #30363d;border-radius:12px;padding:12px;background:#161b22;">
+    <!-- Reigning Life — centered in its own row -->
+    <td colspan="2" valign="top">
+      <div align="center" style="border:1px solid #30363d;border-radius:12px;padding:12px;background:#161b22;max-width:50%;margin:0 auto;">
         <a href="https://reigninglife.netlify.app/">
           <img src="https://shalomchidiazuwike.codes/images/projects/Macbook-Air-reigninglife.netlify.app.png" width="100%" style="border-radius:8px;">
         </a>
