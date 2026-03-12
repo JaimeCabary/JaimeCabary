@@ -324,7 +324,7 @@
     <!-- Uruella AI (flagship) -->
     <td width="50%" valign="top">
       <div align="center" style="border:2px solid #FF4500;border-radius:15px;padding:15px;background:linear-gradient(135deg,#0d1117 0%,#161b22 100%);box-shadow:0 8px 20px rgba(255,69,0,.4);">
-        <a href="https://uruella.vercel.app">
+        <a href="https://uruellaai.vercel.app">
           <img src="https://shalomchidiazuwike.codes/images/projects/Macbook-Air-uruellaai.vercel.app.png" width="100%" style="border-radius:10px;border:1px solid #30363d;">
         </a>
         <br><br>
