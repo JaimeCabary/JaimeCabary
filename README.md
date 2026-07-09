@@ -152,18 +152,18 @@
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
 </h2>
 
-<div align="center">
+<!-- <div align="center">
 
 * **Voice Acting**: Professional, books roles as other people's characters.
 * **ArchiCAD**: Child prodigy, drafting before it was a hobby.
 * **Fiction**: Writing a novel called "Twin". <!-- Pen name: Aster L. Nowen -->
-* **Speedcubing**: Still chasing a better single-solve time.
+<!--* **Speedcubing**: Still chasing a better single-solve time.
 * **Reading List**: Brain science, markets, and theology.
 * **Community**: Runs a book club and an anonymous student helpline.
-* **Status**: Always compiling something.
+* **Status**: Always compiling something. -->
 
 
-</div>
+<!-- </div> --> -->
 
 <br />
 
