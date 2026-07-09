@@ -154,17 +154,14 @@
 
 <div align="center">
 
-```json
-{
-  "voice_acting": "professional, books roles as other people's characters",
-  "archicad": "child prodigy, drafting before it was a hobby",
-  "fiction": "writing a novel called 'Twin', pen name Aster L. Nowen",
-  "speedcubing": "still chasing a better single-solve time",
-  "reading_list": ["brain science", "markets", "theology"],
-  "community": ["runs a book club", "runs an anonymous student helpline"],
-  "status": "always compiling something"
-}
-```
+* **Voice Acting**: Professional, books roles as other people's characters.
+* **ArchiCAD**: Child prodigy, drafting before it was a hobby.
+* **Fiction**: Writing a novel called "Twin". <!-- Pen name: Aster L. Nowen -->
+* **Speedcubing**: Still chasing a better single-solve time.
+* **Reading List**: Brain science, markets, and theology.
+* **Community**: Runs a book club and an anonymous student helpline.
+* **Status**: Always compiling something.
+
 
 </div>
 
