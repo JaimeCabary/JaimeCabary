@@ -12,23 +12,23 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&pause=1000&color=FF6A00&center=true&vCenter=true&width=650&lines=core.status%3A+awake;shipping+Concaretti+%2B+CampUstore;IEEE+IES+%C3%97+Samsung+%C3%97+GDG+FUTO;stack%3A+Python+%7C+TypeScript+%7C+Flutter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1200&color=00D9FF&center=true&vCenter=true&width=950&lines=Hey%2C+I'm+Shalom.;Agentic+AI+Researcher;Software+Engineer.;Always+building+something+cool.;Concaretti+%7C+CampUstore" alt="Typing SVG" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <p style="font-size: 1.2em; color: #c9d1d9; max-width: 800px; line-height: 1.8; margin: 0 auto;">
-      Final-year Software Engineering student, chasing a first-class degree while shipping real things.
-      <br>Right now I'm building <b>Concaretti</b>, a multiagent orchestration platform where several AI agents
-      split a task and hand pieces back and forth instead of one model trying to carry the whole thing alone.
-      <br>I also co-founded <b>CampUstore</b>, a marketplace for students to buy, sell, and hire each other on campus.
-      <br><br>
-      <b>🎓 Also doing:</b> IEEE IES Ambassador &nbsp;|&nbsp; Samsung Student Ambassador &nbsp;|&nbsp; GDG FUTO Content Lead
-      <br><b>🎙️ Also:</b> voice actor &nbsp;|&nbsp; ArchiCAD since before it was cool
-      <br><b>📡 Off the clock:</b> writing a novel, speedcubing, and reading way too much about how brains and markets both try to predict the future.
-  </p>
+<p style="font-size: 1.2em; color: #c9d1d9; max-width: 800px; line-height: 1.8; margin: 0 auto;">
+    Final-year Software Engineering student shippingreal things. 
+    <br><br>
+    Right now, I'm building <b>Concaretti</b>—a multi-agent platform where AI models pass tasks back and forth like a real team, instead of one model trying to do it all alone. I founded <b>Heccker OS -  </b> An ambient, high-agency intelligence built with Google ADK, fusing zero-trust execution with personalized swarm orchestration. I also co-founded <b>CampUstore</b>, a campus marketplace where students can buy, sell, and hire each other.
+    <br><br>
+    <b>⚡ Leadership:</b> IEEE IES Ambassador &nbsp;|&nbsp; Samsung Student Ambassador &nbsp;|&nbsp; GDG FUTO Content Lead
+    <br><b>🎙️ Creative side:</b> Professional voice actor &nbsp;|&nbsp; ArchiCAD child prodigy
+    <br><b>📡 Off the clock:</b> Speedcubing, writing a novel called <i>Twin</i>,<!-- Pen name: Aster L. Nowen --> and reading way too much about how brains and markets predict the future.
+</p>
+
 
   <br />
 
