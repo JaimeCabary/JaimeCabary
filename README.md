@@ -3,7 +3,7 @@
 
   <div style="position: relative; margin-top: -65px;">
     <a href="https://shalomchidiazuwike.codes/">
-      <img src="shalom.jpg" alt="Shalom Profile" width="170" style="border-radius: 50%; border: 4px solid #FF4500; box-shadow: 0 0 30px rgba(255, 69, 0, 0.8); background-color: #0d1117; padding: 5px;">
+      <img src="shalom.jpg" alt="Shalom Profile" width="250" style="border-radius: 50%; border: 4px solid #FF4500; box-shadow: 0 0 30px rgba(255, 69, 0, 0.8); background-color: #0d1117; padding: 5px;">
     </a>
   </div>
 </div>
