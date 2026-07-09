@@ -191,7 +191,7 @@
 
 <br />
 
-<h2 align="center">
+<!--<h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
   <span style="color: #FF4500;">DEPLOYED ARCHIVES</span>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
@@ -233,9 +233,9 @@
         </p>
       </div>
     </td>
-  </tr>
+  <!-- </tr>
 
-  <tr><td colspan="2"><br></td></tr>
+ <tr><td colspan="2"><br></td></tr>
 
   <tr>
     <!-- Uruella AI (flagship) -->
@@ -268,7 +268,7 @@
         </p>
       </div>
     </td>
-  </tr>
+  <!-- </tr>
 
   <tr><td colspan="2"><br></td></tr>
 
@@ -299,7 +299,7 @@
         </p>
       </div>
     </td>
-  </tr>
+  <!-- </tr>
 
   <tr><td colspan="2"><br></td></tr>
 
@@ -330,7 +330,7 @@
         </p>
       </div>
     </td>
-  </tr>
+ <!-- </tr>
 </table>
 
 <br>
@@ -373,19 +373,19 @@
   </table>
 </div>
 
-<br />
+<br /> -->
 
 ---
 
-<h2 align="center">
+<!-- <h2 align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="50">
   <span style="color: #FF4500;">LATEST ACTIVITY</span>
 </h2>
 
 <!--START_SECTION:waka-->
 
-```python
-From: 09 January 2026 - To: 29 June 2026
+<!--```python-->
+<!--From: 09 January 2026 - To: 29 June 2026
 
 Total Time: 0 secs
 
@@ -394,25 +394,25 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-</div>
+<!-- </div> -->
 
-<br />
+<!-- <br /> --> -->
 
 ---
 
-<h2 align="center">
+<!-- <h2 align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40">
   <span style="color: #FF4500;">LATEST BLOG POSTS</span>
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40">
-</h2>
+</h2> -->
 
-<div align="center">
+<!-- <div align="center">
 
 - [Tunnelling In.](https://medium.com/@shazzyazuwike/tunnelling-in-bcc1c8c3ba0b?source=rss-38ac1d46254f------2)
 - [Don't Lose Yourself.](https://medium.com/@shazzyazuwike/-0b071ef0d3fa?source=rss-38ac1d46254f------2)
 - [Mark of the Singularity: The Genesis of SudoCat](https://medium.com/@shazzyazuwike/mark-of-the-singularity-the-genesis-of-sudocat-553a8bd33ccb?source=rss-38ac1d46254f------2)
 
-</div>
+</div> -->
 
 <br />
 
