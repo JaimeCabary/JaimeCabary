@@ -167,7 +167,7 @@
 
 <br />
 
-<h2 align="center">
+<!-- <h2 align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
   <span style="color:  #FF4500;">HALL OF FAME</span>
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
@@ -175,7 +175,7 @@
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=JaimeCabary&theme=radical&column=4&no-frame=false&no-bg=false" alt="trophy" />
 </div>
-<br />
+<br /> -->
 
 <!-- <div align="center">
   <img src="https://raw.githubusercontent.com/JaimeCabary/JaimeCabary/main/profile-summary-card-output/2077/0-profile-details.svg" width="100%" alt="Profile Details">
