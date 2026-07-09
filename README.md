@@ -146,11 +146,11 @@
 
 <br />
 
-<h2 align="center">
+<!-- <h2 align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
   <span style="color:  #FF4500;">BACKGROUND PROCESSES</span>
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
-</h2>
+</h2> -->
 
 <!-- <div align="center">
 
@@ -163,9 +163,9 @@
 * **Status**: Always compiling something. -->
 
 
-<!-- </div> --> -->
+<!-- </div> -->
 
-<br />
+
 
 <!-- <h2 align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
