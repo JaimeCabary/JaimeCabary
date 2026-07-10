@@ -103,6 +103,56 @@
 ---
 
 <h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" alt="Terminal">
+  <span style="color: #FF4500;">WHOAMI</span>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" alt="Terminal">
+</h2>
+
+```
+........:::::::::::::::::::::::=-::::::::......--=-=-:::::::::   shalom@futo
+.............:::::::::........:-:..............-----:.........   ─────────────
+............................. :-:..............::::::            OS: ......................... Human (Nigerian Build)
+    ....................... :*%@@%#=........ . :.:... .          Role: ....................... Software Engineer, Agentic AI Researcher
+...........................-@@@@%%@@*..        :.....   ......   Uptime: ...................... ~3 years in dev, Final-year @ FUTO
+            . .............%%#%%**#%@-:::::....:... . .          Host: ........................ Federal University of Technology, Owerri
+:::::::::::::-:...........:%*%@@#%@%+:::::::::-+####**=+*+*+++   Kernel: ...................... Multi-Agent Orchestration
++**********#*#=.......... =@@%%%#%%*..      .:-=*###**++**#***   IDE: .......................... VS Code, Android Studio
+*++++++*******-.......   :@##@@@@@%..........--=#*##**++******   
+*==++==+++**++:....:--+++@@#:-*%**@-        .--=######++*#####   Languages.Programming: ....... Python, TypeScript, Java, Dart
+=======++++++=:...:*:.-#@@@@@*:%=:@%-:.......-=++++++++*++++++   Languages.Real: .............. English (native), French (intermediate),
+-====-=+==+++=....::.. .#@#--%%@%-#%@@%+-::::-==-=======++++++                                   Spanish (intermediate), Tagalog (beginner)
+--====++=++++-.....:. . .%+ ..=@@@#%++#%-............:::::::::   
+=====+++==*++:.....:.  . =@*- :%@@@@=::=:...         .:..   .-   Frameworks: ................... Flutter, React, Next.js, FastAPI, Vite
+=++=++++=+*++:....::.... :#%#-#%@@@%%*-+-      .......::....=+   Data: .......................... PostgreSQL, MySQL, Firebase, Supabase
++++=++++=+*+=.....--+#***=++=-++*#####*%*---::.    . .-:. . =*   DevOps: ........................ Docker, Kubernetes, GitHub Actions
+++++++++=+++-.... .=@@%%#%%%###%####*****######- . . .-:. . =*   AI Tooling: ..................... Google ADK, LangGraph, MCP, Claude API
+++++++++=+++:... . .=@@@@@%%%%%%%%%%@%%%%%%@@@@#..   .-:... -#   
+++=++++==++=:..    . =@@@@@@@@@@@@@%#@@@@%--:::.     .-::...:*   Roles: .......................... Samsung Student Ambassador, IEEE IES
+*++++++=+*+=..........@@@@@@@@@@@@@@%%@@@@-::::... .  -::...:+                                       Ambassador, GDG FUTO Content Lead
+*++++++=+*+=........ .%@@@@%@%@*+@@@@@%#*@*-======... -::...:+   Building: ........................ Concaretti, Heccker OS, CampUstore
+*+++++*+***-........ :@@@@@@@@%::*@@@@@%:=###****=....:::...:+   
+++*+***+***-........ =%%@@@@@@- -:.*@@@@. +@@@++=.... :::....-   Contact ─────────────────────────
+++++**++***:........ +%@@@@@%%#-..-%%@@@*.-%#@-:.     ::-.   :   Email: ........................... shazzyazuwike@gmail.com
++*+******#+:........ =@@@@@@@@@@+:%@%%@%%+**-=--:::--.::-::=-=   Portfolio: ........................ shalomchidiazuwike.codes
+**+*#****#=:.........:%@@@@@@@%%@%%%%%%%###*:::::::-=::----+-:   GitHub: ........................... github.com/JaimeCabary
+*******#*#-.......... =@@@@@@@@@%%%%%###%%%#=:::--==*:.=+-.:--   Resume: ........................... ↓ badge below
+*******#*#-...........%@@@@@@@@%@@%%%%%####%+.:::...=..::::::.   
+******##**:......... :%%#*+==---=++#**+--::--:..   .=:....:::.   
+******##*+:......... -===-:...::::=*+=::::...      .--...::::.   
+**#**####=::.........=+=-::::...::#*=-:::::........:=#@%@%%%-:   
+*****###*-:........ .+==-::.... .:%*--:--:..=#*:.-:-:-=-+=++::   
+###**###*::........ :+==-::..  ..:%+=----:..*%%- .. :==-. . .:   
+##***###+:::....... -+==--:......-%*=----:. +%%- . +%@@@*: ..-   
+###**###=:::....... =+==-::..... =%*=--=::. =##- ..%@@@%@@...-   
+***+*#*#-::::..... .++---::......*#*=-==::. =##- . -%@@@@+.. :   
+***+*#**::::...... :++=:::::....:##+==+---. -##- .. .-=-: .. :
+```
+
+<br />
+
+---
+
+<h2 align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
   <span style="color:#FF4500;">TECH ARSENAL</span>
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
@@ -141,6 +191,12 @@
   <img src="https://img.shields.io/badge/Voice_Acting-D4AF37?style=for-the-badge" alt="Voice Acting" />
   <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge" alt="CapCut" />
   <img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logoColor=white" alt="Audacity" />
+
+  <h3>🌍 Spoken Languages</h3>
+  <img src="https://img.shields.io/badge/English-native-3C873A?style=for-the-badge" alt="English" />
+  <img src="https://img.shields.io/badge/French-intermediate-0055A4?style=for-the-badge" alt="French" />
+  <img src="https://img.shields.io/badge/Spanish-intermediate-AA151B?style=for-the-badge" alt="Spanish" />
+  <img src="https://img.shields.io/badge/Tagalog-beginner-0038A8?style=for-the-badge" alt="Tagalog" />
 
 </div>
 
