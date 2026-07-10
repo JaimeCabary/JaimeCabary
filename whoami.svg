@@ -1,0 +1,40 @@
+<svg viewBox="0 0 715 948" xmlns="http://www.w3.org/2000/svg" font-family="SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace">
+<rect width="715" height="948" rx="14" fill="#0d1117"/>
+<rect x="1" y="1" width="713" height="946" rx="13" fill="none" stroke="#30363d" stroke-width="1"/>
+<text x="30" y="42" font-size="17" font-weight="700"><tspan fill="#00D9FF">shalom</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#F5C800">concaretti</tspan></text>
+<line x1="30" y1="50" x2="172" y2="50" stroke="#30363d" stroke-width="2"/>
+<text x="30" y="66" font-size="15"><tspan fill="#FF4500">role:</tspan><tspan fill="#4b4f58"> .............. </tspan><tspan fill="#c9d1d9">Software Engineer, Agentic AI Researcher</tspan></text>
+<text x="30" y="90" font-size="15"><tspan fill="#FF4500">uptime:</tspan><tspan fill="#4b4f58"> ............ </tspan><tspan fill="#c9d1d9">~3 years in dev, final-year @ FUTO</tspan></text>
+<text x="30" y="114" font-size="15"><tspan fill="#FF4500">os:</tspan><tspan fill="#4b4f58"> ................ </tspan><tspan fill="#c9d1d9">Windows, Linux</tspan></text>
+<text x="30" y="138" font-size="15"><tspan fill="#FF4500">editors:</tspan><tspan fill="#4b4f58"> ........... </tspan><tspan fill="#c9d1d9">VS Code, Cursor, Android Studio</tspan></text>
+<text x="30" y="162" font-size="15"><tspan fill="#FF4500">kernel:</tspan><tspan fill="#4b4f58"> ............ </tspan><tspan fill="#c9d1d9">Multi-Agent Orchestration</tspan></text>
+<text x="30" y="200" font-size="15" font-weight="700" fill="#F5C800">Languages</text>
+<line x1="114" y1="195" x2="685" y2="195" stroke="#30363d" stroke-width="1"/>
+<text x="30" y="224" font-size="15"><tspan fill="#FF4500">programming:</tspan><tspan fill="#4b4f58"> ....... </tspan><tspan fill="#c9d1d9">Python, TypeScript, Java, Dart</tspan></text>
+<text x="30" y="248" font-size="15"><tspan fill="#FF4500">english:</tspan><tspan fill="#4b4f58"> ........... </tspan><tspan fill="#3FB950">native</tspan></text>
+<text x="30" y="272" font-size="15"><tspan fill="#FF4500">french:</tspan><tspan fill="#4b4f58"> ............ </tspan><tspan fill="#F5C800">intermediate</tspan></text>
+<text x="30" y="296" font-size="15"><tspan fill="#FF4500">spanish:</tspan><tspan fill="#4b4f58"> ........... </tspan><tspan fill="#F5C800">intermediate</tspan></text>
+<text x="30" y="320" font-size="15"><tspan fill="#FF4500">tagalog:</tspan><tspan fill="#4b4f58"> ........... </tspan><tspan fill="#8b949e">beginner</tspan></text>
+<text x="30" y="358" font-size="15" font-weight="700" fill="#F5C800">Stack</text>
+<line x1="80" y1="353" x2="685" y2="353" stroke="#30363d" stroke-width="1"/>
+<text x="30" y="382" font-size="15"><tspan fill="#FF4500">frameworks:</tspan><tspan fill="#4b4f58"> ........ </tspan><tspan fill="#c9d1d9">Flutter, React, Next.js, FastAPI, Vite</tspan></text>
+<text x="30" y="406" font-size="15"><tspan fill="#FF4500">data:</tspan><tspan fill="#4b4f58"> .............. </tspan><tspan fill="#c9d1d9">PostgreSQL, MySQL, Firebase, Supabase</tspan></text>
+<text x="30" y="430" font-size="15"><tspan fill="#FF4500">devops:</tspan><tspan fill="#4b4f58"> ............ </tspan><tspan fill="#c9d1d9">Docker, Kubernetes, GitHub Actions</tspan></text>
+<text x="30" y="454" font-size="15"><tspan fill="#FF4500">ai_tooling:</tspan><tspan fill="#4b4f58"> ........ </tspan><tspan fill="#c9d1d9">Google ADK, LangGraph, MCP, Claude API</tspan></text>
+<text x="30" y="492" font-size="15" font-weight="700" fill="#F5C800">Roles</text>
+<line x1="80" y1="487" x2="685" y2="487" stroke="#30363d" stroke-width="1"/>
+<text x="30" y="516" font-size="15"><tspan fill="#FF4500">›</tspan><tspan fill="#c9d1d9" dx="8">Samsung Student Ambassador</tspan></text>
+<text x="30" y="540" font-size="15"><tspan fill="#FF4500">›</tspan><tspan fill="#c9d1d9" dx="8">IEEE IES Ambassador</tspan></text>
+<text x="30" y="564" font-size="15"><tspan fill="#FF4500">›</tspan><tspan fill="#c9d1d9" dx="8">GDG FUTO Content Lead</tspan></text>
+<text x="30" y="602" font-size="15" font-weight="700" fill="#F5C800">Off the clock</text>
+<line x1="147" y1="597" x2="685" y2="597" stroke="#30363d" stroke-width="1"/>
+<text x="30" y="626" font-size="15"><tspan fill="#FF4500">›</tspan><tspan fill="#c9d1d9" dx="8">teaches kids to read</tspan></text>
+<text x="30" y="650" font-size="15"><tspan fill="#FF4500">›</tspan><tspan fill="#c9d1d9" dx="8">runs a book club</tspan></text>
+<text x="30" y="674" font-size="15"><tspan fill="#FF4500">›</tspan><tspan fill="#c9d1d9" dx="8">anonymous student helpline</tspan></text>
+<text x="30" y="712" font-size="15"><tspan fill="#FF4500">building:</tspan><tspan fill="#4b4f58"> .......... </tspan><tspan fill="#c9d1d9">Concaretti, Heccker OS, CampUstore</tspan></text>
+<text x="30" y="750" font-size="15" font-weight="700" fill="#F5C800">Contact</text>
+<line x1="97" y1="745" x2="685" y2="745" stroke="#30363d" stroke-width="1"/>
+<text x="30" y="774" font-size="15"><tspan fill="#FF4500">email:</tspan><tspan fill="#4b4f58"> ............. </tspan><tspan fill="#c9d1d9">shazzyazuwike@gmail.com</tspan></text>
+<text x="30" y="798" font-size="15"><tspan fill="#FF4500">portfolio:</tspan><tspan fill="#4b4f58"> ......... </tspan><tspan fill="#c9d1d9">shalomchidiazuwike.codes</tspan></text>
+<text x="30" y="822" font-size="15"><tspan fill="#FF4500">github:</tspan><tspan fill="#4b4f58"> ............ </tspan><tspan fill="#c9d1d9">github.com/JaimeCabary</tspan></text>
+</svg>
