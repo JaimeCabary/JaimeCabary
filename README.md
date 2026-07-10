@@ -183,46 +183,11 @@
   </div>
 </div>
 
+<div align="center">
+  <img src="whoami.svg" alt="whoami" width="600">
+</div>
 
-```yaml
-shalom@concaretti:
-  role: Software Engineer, Agentic AI Researcher
-  uptime: ~3 years in dev, final-year @ FUTO
-  os: [Windows, Linux]
-  editors: [VS Code, Cursor, Android Studio]
-  kernel: Multi-Agent Orchestration
 
-  languages:
-    programming: [Python, TypeScript, Java, Dart]
-    spoken:
-      english: native
-      french: intermediate
-      spanish: intermediate
-      tagalog: beginner
-
-  stack:
-    frameworks: [Flutter, React, Next.js, FastAPI, Vite]
-    data: [PostgreSQL, MySQL, Firebase, Supabase]
-    devops: [Docker, Kubernetes, GitHub Actions]
-    ai_tooling: [Google ADK, LangGraph, MCP, Claude API]
-
-  roles:
-    - Samsung Student Ambassador
-    - IEEE IES Ambassador
-    - GDG FUTO Content Lead
-
-  off_the_clock:
-    - teaches kids to read
-    - runs a book club
-    - anonymous student helpline
-
-  building: [Concaretti, Heccker OS, CampUstore]
-
-  contact:
-    email: shazzyazuwike@gmail.com
-    portfolio: shalomchidiazuwike.codes
-    github: github.com/JaimeCabary
-```
 
 <br />
 
