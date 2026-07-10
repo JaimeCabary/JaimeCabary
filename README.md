@@ -176,11 +176,7 @@
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" alt="Terminal">
 </h2>
 
-    <!--<div style="position: relative; margin-top: -65px;">
-    <a href="https://shalomchidiazuwike.codes/">
-      <img src="shalom.jpg" alt="Shalom Profile" width="300" style="border-radius: 50%; border: 4px solid #FF4500; box-shadow: 0 0 30px rgba(255, 69, 0, 0.8); background-color: #0d1117; padding: 5px;">
-    </a>  
-    </div> -->
+
 
 
 <div align="center">
