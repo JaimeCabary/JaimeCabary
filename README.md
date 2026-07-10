@@ -172,7 +172,7 @@
 ---
 <h2 align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" alt="Terminal">
-  <span style="color: #FF4500;">WHOAMI</span>
+  <span style="color: #FF4500;">WHOAMI (DEV VERSION) </span>
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" alt="Terminal">
 </h2>
 
