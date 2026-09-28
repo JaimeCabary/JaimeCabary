@@ -86,7 +86,7 @@
 
 ### Hey, I'm Shalom 👋🏾
 
-I'm a Software Engineering student from Nigeria who likes building things and figuring out how they work.
+I'm a Software Engineer from Nigeria who likes building things and figuring out how they work.
 
 These days, a lot of my time goes into **AI, software, and the web**. I'm working on **Concaretti**, exploring **Heccker OS**, and co-building **CampUstore**.
 
