@@ -78,7 +78,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1200&color=00D9FF&center=true&vCenter=true&width=950&lines=Hey%2C+I'm+Shalom.;Software+Engineer.;AI+Researcher.;I+like+building+things.;Concaretti+%7C+CampUstore+%7C+Heccker+OS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1200&color=00D9FF&center=true&vCenter=true&width=950&lines=Hey%2C+I'm+Shalom.;Software+Engineer.;AI+Researcher.;I+like+building+things.;Concaretti+%7C+Pure+Cinema+%7C+Heccker+OS" alt="Typing SVG" />
 </a>
 
 <br /><br />
