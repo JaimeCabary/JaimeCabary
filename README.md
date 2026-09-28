@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=SHALOM%20CHIDI-AZUWIKE&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Researcher%20from%20Nigeria&descFontSize=20&descAlignY=60&color=0:ff0000,50:ffff00,100:00ffcc" width="100%" />
-
+``` text
 
                                     ---:::::                                                       
                               ---:::::::::::::                                                     
@@ -72,6 +72,7 @@
 ---::::::::::::::::::::::::::---:::---::---====+++**+***+*******+=:............:-:.........:::::...-
 :---::::::.::..::..:::::::::::::::----::---====++*****+++++*******:............:--.........:::::....
 :::--:::::......:..:::.:..:::::::::---:::-==+++++++++++++++++******+:..........:--:........:::::....
+```
 
 <br />
 
