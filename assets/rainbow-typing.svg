@@ -1,0 +1,180 @@
+<svg
+  width="950"
+  height="90"
+  viewBox="0 0 950 90"
+  xmlns="http://www.w3.org/2000/svg"
+>
+
+  <defs>
+
+    <!-- Rainbow gradient -->
+    <linearGradient
+      id="rainbow"
+      x1="0%"
+      y1="0%"
+      x2="100%"
+      y2="0%"
+    >
+      <stop offset="0%" stop-color="#ff3b30"/>
+      <stop offset="16%" stop-color="#ff9500"/>
+      <stop offset="33%" stop-color="#ffd60a"/>
+      <stop offset="50%" stop-color="#34c759"/>
+      <stop offset="66%" stop-color="#00c7ff"/>
+      <stop offset="83%" stop-color="#5856d6"/>
+      <stop offset="100%" stop-color="#ff2d55"/>
+
+      <animate
+        attributeName="x1"
+        values="0%;100%;0%"
+        dur="7s"
+        repeatCount="indefinite"
+      />
+
+      <animate
+        attributeName="x2"
+        values="100%;0%;100%"
+        dur="7s"
+        repeatCount="indefinite"
+      />
+    </linearGradient>
+
+    <!-- Cursor -->
+    <linearGradient
+      id="cursor"
+      x1="0%"
+      y1="0%"
+      x2="100%"
+      y2="0%"
+    >
+      <stop offset="0%" stop-color="#ff3b30"/>
+      <stop offset="50%" stop-color="#00c7ff"/>
+      <stop offset="100%" stop-color="#ff2d55"/>
+    </linearGradient>
+
+  </defs>
+
+  <!-- Main text -->
+  <text
+    x="475"
+    y="45"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-family="Space Grotesk, Inter, Arial, sans-serif"
+    font-size="30"
+    font-weight="600"
+    fill="url(#rainbow)"
+  >
+
+    <tspan>
+
+      Hey, I'm Shalom.
+
+      <animate
+        attributeName="opacity"
+        values="1;1;0;0;1"
+        keyTimes="0;0.35;0.42;0.95;1"
+        dur="4s"
+        repeatCount="indefinite"
+      />
+
+    </tspan>
+
+  </text>
+
+  <!-- Second line -->
+  <text
+    x="475"
+    y="45"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-family="Space Grotesk, Inter, Arial, sans-serif"
+    font-size="30"
+    font-weight="600"
+    fill="url(#rainbow)"
+    opacity="0"
+  >
+    Software Engineer.
+
+    <animate
+      attributeName="opacity"
+      values="0;0;1;1;0"
+      keyTimes="0;0.25;0.32;0.65;0.72"
+      dur="5s"
+      repeatCount="indefinite"
+    />
+
+  </text>
+
+  <!-- Third line -->
+  <text
+    x="475"
+    y="45"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-family="Space Grotesk, Inter, Arial, sans-serif"
+    font-size="30"
+    font-weight="600"
+    fill="url(#rainbow)"
+    opacity="0"
+  >
+    AI Researcher.
+
+    <animate
+      attributeName="opacity"
+      values="0;0;1;1;0"
+      keyTimes="0;0.35;0.42;0.72;0.78"
+      dur="6s"
+      repeatCount="indefinite"
+    />
+
+  </text>
+
+  <!-- Fourth line -->
+  <text
+    x="475"
+    y="45"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-family="Space Grotesk, Inter, Arial, sans-serif"
+    font-size="30"
+    font-weight="600"
+    fill="url(#rainbow)"
+    opacity="0"
+  >
+    I like building things.
+
+    <animate
+      attributeName="opacity"
+      values="0;0;1;1;0"
+      keyTimes="0;0.45;0.52;0.78;0.84"
+      dur="7s"
+      repeatCount="indefinite"
+    />
+
+  </text>
+
+  <!-- Fifth line -->
+  <text
+    x="475"
+    y="45"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-family="Space Grotesk, Inter, Arial, sans-serif"
+    font-size="30"
+    font-weight="600"
+    fill="url(#rainbow)"
+    opacity="0"
+  >
+    Concaretti | Pure Cinema | Heccker OS
+
+    <animate
+      attributeName="opacity"
+      values="0;0;1;1;0"
+      keyTimes="0;0.55;0.62;0.92;1"
+      dur="8s"
+      repeatCount="indefinite"
+    />
+
+  </text>
+
+</svg>
