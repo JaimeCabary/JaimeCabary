@@ -90,16 +90,7 @@
 <br />
 
 <div align="center">
-<p style="font-size: 1.2em; color: #c9d1d9; max-width: 800px; line-height: 1.8; margin: 0 auto;">
-    Final-year Software Engineering student shippingreal things. 
-    <br><br>
-    Right now, I'm building <b>Concaretti</b>—a multi-agent platform where AI models pass tasks back and forth like a real team, instead of one model trying to do it all alone. I founded <b>Heccker OS -  </b> An ambient, high-agency intelligence built with Google ADK, fusing zero-trust execution with personalized swarm orchestration. I also co-founded <b>CampUstore</b>, a campus marketplace where students can buy, sell, and hire each other.
-    <br><br>
-    <b>⚡ Leadership:</b> IEEE IES Ambassador &nbsp;|&nbsp; Samsung Student Ambassador &nbsp;|&nbsp; GDG FUTO Content Lead
-    <br><b>🎙️ Creative side:</b> Professional voice actor &nbsp;|&nbsp; ArchiCAD child prodigy
-    <br><b>📡 Off the clock:</b> Speedcubing, writing a novel called <i>Twin</i>,<!-- Pen name: Aster L. Nowen --> and reading way too much about how brains and markets predict the future.
-</p>
-
+<div align="center"> ## Hey, I'm Shalom 👋🏾 Software Engineering student from Nigeria, building things I find interesting. I work with software, AI, and the web. Right now, I'm building **Concaretti**, exploring **Heccker OS**, and co-building **CampUstore**. Outside code, I write, read, speedcube, work on random ideas, and usually have another project somewhere in progress. </div> --- <h2 align="center"> WHAT I'M BUILDING </h2> <div align="center"> ### 🧠 Concaretti My final-year research project exploring how multiple AI agents can work together to get things done. ### 🖥️ Heccker OS An experiment in building a more personal AI system, with security and user control at the centre. ### 🛍️ CampUstore A marketplace built around campus life, where students can buy, sell, and offer services to each other. </div> --- <h2 align="center"> A LITTLE MORE ABOUT ME </h2> <div align="center"> I like building software, but I also like writing, creative work, books, and learning things completely unrelated to whatever I'm currently coding. I'm still learning. Still building. And there's usually something new on my desk. </div>
 
   <br />
 
