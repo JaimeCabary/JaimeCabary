@@ -1,4 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=SHALOM%20CHIDI-AZUWIKE&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Researcher%20from%20Nigeria&descFontSize=20&descAlignY=60&color=0:ff0000,50:ffff00,100:00ffcc" width="100%" />
+<div align="center">
+
+<img src="./assets/header.svg" width="100%" alt="Shalom Chidi-Azuwike, Software Engineer and AI Researcher from Nigeria" />
+
+</div>
+
 <div align="center">
 
 <img
@@ -88,7 +93,6 @@
 
 <div align="center">
 
-
 ### Hey, I'm Shalom 👋🏾
 
 I'm a Software Engineer from Nigeria who likes building things and figuring out how they work.
@@ -99,43 +103,19 @@ Outside of code, I write, read, speedcube, work on random ideas, and probably ha
 
 </div>
 
-<br />
-
----
-
-<h2 align="center">
-  WHAT I'M BUILDING
-</h2>
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 <div align="center">
-
-### 🧠 Concaretti
-
-My final-year research project.
-
-I'm exploring what happens when different AI agents can work together instead of asking one AI to do everything.
-
-### 🖥️ Heccker OS
-
-A project I'm using to explore what a more personal AI system could look like.
-
-I'm especially interested in making it useful without giving up security or control.
-
-### 🛍️ CampUstore
-
-A marketplace built around campus life.
-
-Students can buy things, sell things, and offer services to other students without having to look too far.
-
+  <img src="./assets/title-building.svg" width="950" alt="What I'm building" />
+  <br />
+  <img src="./assets/building-cards.svg" width="950" alt="Concaretti, Heccker OS and CampUstore" />
 </div>
 
-<br />
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
----
-
-<h2 align="center">
-  SOME THINGS I LIKE
-</h2>
+<div align="center">
+  <img src="./assets/title-likes.svg" width="950" alt="Some things I like" />
+</div>
 
 <div align="center">
 
@@ -149,33 +129,19 @@ Sometimes I build them because I just want to know if I can.
 
 </div>
 
-<br />
-
----
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">
-  THINGS I'VE BEEN WORKING ON
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">
-</h2>
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="My GitHub contributions" width="100%">
+  <img src="./assets/title-working.svg" width="950" alt="Things I've been working on" />
+  <br />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="My GitHub contributions" width="100%">
 </div>
 
-<br />
-
----
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" alt="Git">
-  THE GREEN SQUARES
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" alt="Git">
-</h2>
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 <div align="center">
-
-<br />
+  <img src="./assets/title-squares.svg" width="950" alt="The green squares" />
+</div>
 
 <!--
 <picture>
@@ -185,39 +151,22 @@ Sometimes I build them because I just want to know if I can.
 </picture>
 -->
 
+<div align="center">
+  <img src="./gitartwork.svg" alt="GitHub contribution artwork" width="100%">
 </div>
 
-<br />
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 <div align="center">
-  <img src="gitartwork.svg" alt="GitHub contribution artwork" width="100%">
+  <img src="./assets/title-about.svg" width="950" alt="A little more about me" />
+  <br />
+  <img src="./whoami.svg" alt="whoami" width="600">
 </div>
 
-<br />
-
----
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" alt="Terminal">
-  A LITTLE MORE ABOUT ME
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" alt="Terminal">
-</h2>
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 <div align="center">
-  <img src="whoami.svg" alt="whoami" width="600">
-</div>
-
-<br />
-
----
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
-  THINGS I WORK WITH
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
-</h2>
-
-<div align="center">
+  <img src="./assets/title-stack.svg" width="950" alt="Things I work with" />
 
 <h3>Languages</h3>
 
@@ -266,45 +215,28 @@ Sometimes I build them because I just want to know if I can.
 
 </div>
 
-<br />
-
----
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-  PEOPLE FROM AROUND THE WORLD
-</h2>
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 <div align="center">
+  <img src="./assets/title-world.svg" width="950" alt="People from around the world" />
+  <br />
   <img src="https://s01.flagcounter.com/countxl/JaimeCabary/bg_0D1117/txt_FF4500/border_0D1117/columns_8/maxflags_16/viewers_0/labels_0/pageviews_1/flags_0/" alt="Flag Counter" border="0">
 </div>
 
-<br />
-
----
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 <div align="center">
-
-<h2 style="color: #FF4500;">
-  Let's build something.
-</h2>
-
-<p style="font-size: 16px; color: #c9d1d9;">
+  <img src="./assets/title-contact.svg" width="950" alt="Let's build something" />
 
 I'm open to freelance and remote work, especially around software, AI, backend systems, and Flutter.
 
+<br />
+
+<a href="mailto:shazzyazuwike@gmail.com"><img src="https://img.shields.io/badge/Email-shazzyazuwike@gmail.com-FF4500?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://shalomchidiazuwike.codes/"><img src="https://img.shields.io/badge/Portfolio-shalomchidiazuwike.codes-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+
 <br /><br />
 
-📧 <a href="mailto:shazzyazuwike@gmail.com" style="color: #FF4500;">[shazzyazuwike@gmail.com](mailto:shazzyazuwike@gmail.com)</a>
-
-<br />
-
-🌐 <a href="https://shalomchidiazuwike.codes/" style="color: #FF4500;">shalomchidiazuwike.codes</a>
-
-</p>
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,24&height=150&section=footer&text=Still%20building.%20Still%20learning.%20%F0%9F%9A%80&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%">
+<img src="./assets/footer.svg" width="100%" alt="Still building. Still learning." />
 
 </div>
